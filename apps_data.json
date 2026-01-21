@@ -1,0 +1,128 @@
+[
+    {
+        "id": "com.elragolel3nab.delivery",
+        "name": "الرجل العناب",
+        "description": "Order food easily from your favorite restaurants with fast delivery service",
+        "iconUrl": "https://play-lh.googleusercontent.com/H5kizOPvAqdqc8h4GGb05MI1eyK40E1--s3rZSyCxN2oaWaNiyq31FQWIqYFym5790s7eAULByVt_LtaXRrdUw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.elragolel3nab.delivery"
+    },
+    {
+        "id": "com.elragol.restaurant.manager",
+        "name": "ادارة العنابي",
+        "description": "تطبيق إدارة شامل لمطاعم العنابي - قوائم، طلبات، ومبيعات بكفاءة عالية",
+        "iconUrl": "https://play-lh.googleusercontent.com/3p6xkYKxOxwIO-8qzUJC8fSUD11Vo8JvWAEwqa12YnwPv7pt3cwSM-smNAPPgyFIVB_nCuCDyJIhEeFGMFtR1w=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.elragol.restaurant.manager"
+    },
+    {
+        "id": "com.coding.quiz_app",
+        "name": "أسئلة على التجويد(شهادة تقدير)",
+        "description": "اختبار بسيط على بعض قواعد التجويد وبه شهادة تقدير إذا تجاوزت 7 أسئلة صحيحة أو 50",
+        "iconUrl": "https://play-lh.googleusercontent.com/Y5jM7IJk-rQ82BMmG8LlcQZQ80cwUFo9YoIqNb_SWsrisNBRXXDnU5hUWogbsVRfnV_N=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
+    },
+    {
+        "id": "com.transport.samannud_toktok",
+        "name": "توك توك سمنود",
+        "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
+        "iconUrl": "https://play-lh.googleusercontent.com/KAMBpV1-r7B7lrd-FD8vMlrpoMj80fbSE1xiuVKRNX7uvsTRiy3CMuL08eMRapfJfoyV=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
+    },
+    {
+        "id": "com.quran_2.quran_sound_2",
+        "name": "جزء عم للمنشاوي بترديد الأطفال",
+        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
+        "iconUrl": "https://play-lh.googleusercontent.com/H3I0M2cHohkCPJjwFBY5Ygq1Qu9xfU5d5D9okcwWKuvy_CRxVl8dKHEHiKT0d1uEyQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
+    },
+    {
+        "id": "com.kg.horror_stories",
+        "name": "رعب الحقيقة والخيال",
+        "description": "فيديوهات حكايات رعب مشوقة",
+        "iconUrl": "https://play-lh.googleusercontent.com/9UFQ_KBt6F1sodwX_wpYVQ2011epxAASQdtjmewFSqXP3gKzz5LFlvLL_lzb9j-lIB0BYrseLHXquWVWK4JOsg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.horror_stories"
+    },
+    {
+        "id": "com.yallashoghl.app",
+        "name": "يلا شغل",
+        "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
+        "iconUrl": "https://play-lh.googleusercontent.com/NW-FDzaJAU1gFe_Dmt_1u_iEtVavk0Mz6hN6XsyyuuMc5rYEWQgXxdc8AXZGpsf5YiGomciM9T_oG4y_JJLqjLU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
+    },
+    {
+        "id": "com.code.world_movies_series",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "بوابتك الشاملة لكل جديد في عالم السينما والدراما",
+        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
+    },
+    {
+        "id": "com.kg.youtube_videos",
+        "name": "عروض مسرح مصر",
+        "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
+        "iconUrl": "https://play-lh.googleusercontent.com/3shbVRCnkxAb1MSJw-CZL4Kq-SdiUKrs_X3zYpHLXpMljEAeivByjGhUVtcGD18qak8rfyibqAKWGGPRLeO_AcE=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
+    },
+    {
+        "id": "dev.elsayed.ektshaf",
+        "name": "Counter Plus - Simple Counter",
+        "description": "تطبيق عداد لتتبع أي شيء بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/i-GiA-wAeotMfz8OBf_LLk8BTmRcpSxeMDtp5SyetVfI3zxQbvO_-Oa47qeoOi85JzY9KD0vvy4ZrYkmFd3z2w=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=dev.elsayed.ektshaf"
+    },
+    {
+        "id": "com.anime.mpc3_anime_free",
+        "name": "افلام انمي مدبلجة",
+        "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
+        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
+    },
+    {
+        "id": "com.note.sqlite_demo",
+        "name": "ملاحظاتي",
+        "description": "نوته بسيطة",
+        "iconUrl": "https://play-lh.googleusercontent.com/CrH-BGoyfzMRGR3378agu3T9_e19w6_DHvBU9HV8IxRr1MjI74hRGzIlvmK-nFa4nw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
+    },
+    {
+        "id": "com.anime.mpc3_anime",
+        "name": "كرتون مدبلج",
+        "description": "مشاهدة أفلام الكرتون المدبلجة",
+        "iconUrl": "https://play-lh.googleusercontent.com/cENBHp895sb8ZeRQCMsfiS21fmR_IZrbl7FIraGrHrzJEseIOiA4SQt9EY0nvN-0OLI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime"
+    },
+    {
+        "id": "com.code.online_games",
+        "name": "عالم الألعاب",
+        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
+        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
+        "id": "com.quran1.quran_sound",
+        "name": "العشر الأخير للشيخ المنشاوي",
+        "description": "العشر الأخير أي جزء المجادلة و تبارك وعم للشيخ المنشاوي رحمه الله",
+        "iconUrl": "https://play-lh.googleusercontent.com/l3zEhz8SWMvweI8PfXN3IbkFx6z1uAN0h4xYyQHapHzG0pw9U1b_dwYB0cPN3fUNeQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran1.quran_sound"
+    },
+    {
+        "id": "com.anime.dubbed_cartoon_series_free",
+        "name": "يلا كرتوني",
+        "description": "استمتع بمشاهدة أفضل رسوم الأنمي من فترة الألفينيات تصفح واستعرض الأنمي المفضل لك",
+        "iconUrl": "https://play-lh.googleusercontent.com/5O2lztjG20mkqFiP4rIHsn3guEwcBz607O3HY18y-mU9U1AQwtssIQByAhRZ8W9nNA=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.dubbed_cartoon_series_free"
+    },
+    {
+        "id": "com.image_1.my_image_app",
+        "name": "صور أسطورية",
+        "description": "صور أسطورية كخلفيه",
+        "iconUrl": "https://play-lh.googleusercontent.com/KR6O3RkkP24sW760lmsh2doF04GJsoJ1Yq-gp4NWl5_M--I3hGEcvj6ISGekn5qWlwA=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.image_1.my_image_app"
+    },
+    {
+        "id": "com.kg.trend_grid",
+        "name": "Trending Grid",
+        "description": "اكتشف ما يبحث عنه العالم في تطبيق واحد!",
+        "iconUrl": "https://play-lh.googleusercontent.com/bSt6fiQWxG020EjqQGvM_zN8-Xz2p_UdB3dMsPGF9lC9XaJpHdBMJWCWHMGzREl2Pc-VIi1tp4bNqK_jpTid=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.trend_grid"
+    }
+]
