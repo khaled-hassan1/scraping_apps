@@ -28,13 +28,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
     },
     {
-        "id": "com.kg.trend_grid",
-        "name": "Trending Grid",
-        "description": "اكتشف ما يبحث عنه العالم في تطبيق واحد!",
-        "iconUrl": "https://play-lh.googleusercontent.com/bSt6fiQWxG020EjqQGvM_zN8-Xz2p_UdB3dMsPGF9lC9XaJpHdBMJWCWHMGzREl2Pc-VIi1tp4bNqK_jpTid=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.trend_grid"
-    },
-    {
         "id": "com.quran_2.quran_sound_2",
         "name": "جزء عم للمنشاوي بترديد الأطفال",
         "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
@@ -42,11 +35,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
     },
     {
-        "id": "com.kg.youtube_videos",
-        "name": "عروض مسرح مصر",
-        "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
-        "iconUrl": "https://play-lh.googleusercontent.com/3shbVRCnkxAb1MSJw-CZL4Kq-SdiUKrs_X3zYpHLXpMljEAeivByjGhUVtcGD18qak8rfyibqAKWGGPRLeO_AcE=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
+        "id": "com.kg.trend_grid",
+        "name": "Trending Grid",
+        "description": "اكتشف ما يبحث عنه العالم في تطبيق واحد!",
+        "iconUrl": "https://play-lh.googleusercontent.com/bSt6fiQWxG020EjqQGvM_zN8-Xz2p_UdB3dMsPGF9lC9XaJpHdBMJWCWHMGzREl2Pc-VIi1tp4bNqK_jpTid=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.trend_grid"
     },
     {
         "id": "com.kg.horror_stories",
@@ -63,18 +56,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
     },
     {
-        "id": "dev.elsayed.ektshaf",
-        "name": "Counter Plus - Simple Counter",
-        "description": "تطبيق عداد لتتبع أي شيء بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/i-GiA-wAeotMfz8OBf_LLk8BTmRcpSxeMDtp5SyetVfI3zxQbvO_-Oa47qeoOi85JzY9KD0vvy4ZrYkmFd3z2w=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=dev.elsayed.ektshaf"
-    },
-    {
-        "id": "com.code.world_movies_series",
-        "name": "عالم الأفلام والمسلسلات",
-        "description": "بوابتك الشاملة لكل جديد في عالم السينما والدراما",
-        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
+        "id": "com.kg.youtube_videos",
+        "name": "عروض مسرح مصر",
+        "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
+        "iconUrl": "https://play-lh.googleusercontent.com/3shbVRCnkxAb1MSJw-CZL4Kq-SdiUKrs_X3zYpHLXpMljEAeivByjGhUVtcGD18qak8rfyibqAKWGGPRLeO_AcE=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
     },
     {
         "id": "com.anime.mpc3_anime_free",
@@ -84,11 +70,25 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
     },
     {
+        "id": "com.code.world_movies_series",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "بوابتك الشاملة لكل جديد في عالم السينما والدراما",
+        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
+    },
+    {
         "id": "com.note.sqlite_demo",
         "name": "ملاحظاتي",
         "description": "نوته بسيطة",
         "iconUrl": "https://play-lh.googleusercontent.com/CrH-BGoyfzMRGR3378agu3T9_e19w6_DHvBU9HV8IxRr1MjI74hRGzIlvmK-nFa4nw=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
+    },
+    {
+        "id": "dev.elsayed.ektshaf",
+        "name": "Counter Plus - Simple Counter",
+        "description": "تطبيق عداد لتتبع أي شيء بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/i-GiA-wAeotMfz8OBf_LLk8BTmRcpSxeMDtp5SyetVfI3zxQbvO_-Oa47qeoOi85JzY9KD0vvy4ZrYkmFd3z2w=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=dev.elsayed.ektshaf"
     },
     {
         "id": "com.anime.mpc3_anime",
@@ -98,18 +98,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime"
     },
     {
-        "id": "com.quran1.quran_sound",
-        "name": "العشر الأخير للشيخ المنشاوي",
-        "description": "العشر الأخير أي جزء المجادلة و تبارك وعم للشيخ المنشاوي رحمه الله",
-        "iconUrl": "https://play-lh.googleusercontent.com/l3zEhz8SWMvweI8PfXN3IbkFx6z1uAN0h4xYyQHapHzG0pw9U1b_dwYB0cPN3fUNeQ=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran1.quran_sound"
-    },
-    {
         "id": "com.code.online_games",
         "name": "عالم الألعاب",
         "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
         "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
+        "id": "com.quran1.quran_sound",
+        "name": "العشر الأخير للشيخ المنشاوي",
+        "description": "العشر الأخير أي جزء المجادلة و تبارك وعم للشيخ المنشاوي رحمه الله",
+        "iconUrl": "https://play-lh.googleusercontent.com/l3zEhz8SWMvweI8PfXN3IbkFx6z1uAN0h4xYyQHapHzG0pw9U1b_dwYB0cPN3fUNeQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran1.quran_sound"
     },
     {
         "id": "com.anime.dubbed_cartoon_series_free",
@@ -124,5 +124,12 @@
         "description": "صور أسطورية كخلفيه",
         "iconUrl": "https://play-lh.googleusercontent.com/KR6O3RkkP24sW760lmsh2doF04GJsoJ1Yq-gp4NWl5_M--I3hGEcvj6ISGekn5qWlwA=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.image_1.my_image_app"
+    },
+    {
+        "id": "com.kg.recaps_movie_series",
+        "name": "ملخصات الأفلام والمسلسلات",
+        "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
     }
 ]
