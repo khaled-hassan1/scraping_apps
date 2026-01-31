@@ -42,6 +42,13 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.trend_grid"
     },
     {
+        "id": "com.kg.recaps_movie_series",
+        "name": "ملخصات الأفلام والمسلسلات",
+        "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
+    },
+    {
         "id": "com.kg.horror_stories",
         "name": "رعب الحقيقة والخيال",
         "description": "فيديوهات حكايات رعب مشوقة",
@@ -126,10 +133,10 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.image_1.my_image_app"
     },
     {
-        "id": "com.kg.recaps_movie_series",
-        "name": "ملخصات الأفلام والمسلسلات",
-        "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
-        "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     }
 ]
