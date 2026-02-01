@@ -21,6 +21,13 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
     },
     {
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
+    },
+    {
         "id": "com.transport.samannud_toktok",
         "name": "توك توك سمنود",
         "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
@@ -131,12 +138,5 @@
         "description": "صور أسطورية كخلفيه",
         "iconUrl": "https://play-lh.googleusercontent.com/KR6O3RkkP24sW760lmsh2doF04GJsoJ1Yq-gp4NWl5_M--I3hGEcvj6ISGekn5qWlwA=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.image_1.my_image_app"
-    },
-    {
-        "id": "com.kg.tales_and_stories",
-        "name": "حواديت وحكايات",
-        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
-        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     }
 ]
