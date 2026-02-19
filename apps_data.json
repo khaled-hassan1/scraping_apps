@@ -3,7 +3,7 @@
         "id": "com.elragolel3nab.delivery",
         "name": "الرجل العناب",
         "description": "Order food easily from your favorite restaurants with fast delivery service",
-        "iconUrl": "https://play-lh.googleusercontent.com/H5kizOPvAqdqc8h4GGb05MI1eyK40E1--s3rZSyCxN2oaWaNiyq31FQWIqYFym5790s7eAULByVt_LtaXRrdUw=s256",
+        "iconUrl": "https://play-lh.googleusercontent.com/uzcrKx4Ig9y_VD4_HP5cU51yy0PeKcgFSH-ROnzP49WGsd_bcdDjeZFwx0eXlFz8hPB6Q-SVt8Ue3xbBiRkAjw=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.elragolel3nab.delivery"
     },
     {
@@ -28,25 +28,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
     },
     {
+        "id": "com.kh.full_quran",
+        "name": "أنيسك مصحفك",
+        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
+        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
+    },
+    {
         "id": "com.kg.islamic_alafasy",
         "name": "قرآن وأناشيد العفاسي",
         "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
         "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
-    },
-    {
-        "id": "com.quran_2.quran_sound_2",
-        "name": "جزء عم للمنشاوي بترديد الأطفال",
-        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
-        "iconUrl": "https://play-lh.googleusercontent.com/H3I0M2cHohkCPJjwFBY5Ygq1Qu9xfU5d5D9okcwWKuvy_CRxVl8dKHEHiKT0d1uEyQ=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
-    },
-    {
-        "id": "com.kg.qasas_quran",
-        "name": "قصص الأنبياء والقرآن",
-        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
-        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
     },
     {
         "id": "com.kg.bmi.calc",
@@ -56,46 +49,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.bmi.calc"
     },
     {
-        "id": "com.kg.tales_and_stories",
-        "name": "حواديت وحكايات",
-        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
-        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
-    },
-    {
-        "id": "com.kg.trend_grid",
-        "name": "Trending Grid",
-        "description": "اكتشف ما يبحث عنه العالم في تطبيق واحد!",
-        "iconUrl": "https://play-lh.googleusercontent.com/bSt6fiQWxG020EjqQGvM_zN8-Xz2p_UdB3dMsPGF9lC9XaJpHdBMJWCWHMGzREl2Pc-VIi1tp4bNqK_jpTid=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.trend_grid"
-    },
-    {
-        "id": "com.kg.games_adventures",
-        "name": "مغامرات الألعاب",
-        "description": "شاهد فيديوهات لمغامرات اللاعبين أثناء لعب الألعاب المختلفة",
-        "iconUrl": "https://play-lh.googleusercontent.com/5QdCtrujqb21qbKpYcUHCecmSV3-UuH0DM8TFyPRAkeW47bfuToT_4CjzmVHcyH8H0jBi0mOafuszHS5uziXJQ=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
-    },
-    {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
-    },
-    {
-        "id": "com.kg.football_app",
-        "name": "عالم الكورة",
-        "description": "تابع أخبار كرة القدم وملخصات المباريات بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/3F9wmp2i2TQRhGZPMGo3DPy9h8s8TiQDXSRUiIV3LmrEIqoB-LwMNOK3KWbAk3qcC6su5l50bFL6W86VN9LFfg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.football_app"
-    },
-    {
-        "id": "dev.elsayed.ektshaf",
-        "name": "Counter Plus - Simple Counter",
-        "description": "تطبيق عداد لتتبع أي شيء بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/i-GiA-wAeotMfz8OBf_LLk8BTmRcpSxeMDtp5SyetVfI3zxQbvO_-Oa47qeoOi85JzY9KD0vvy4ZrYkmFd3z2w=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=dev.elsayed.ektshaf"
+        "id": "com.quran_2.quran_sound_2",
+        "name": "جزء عم للمنشاوي بترديد الأطفال",
+        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
+        "iconUrl": "https://play-lh.googleusercontent.com/H3I0M2cHohkCPJjwFBY5Ygq1Qu9xfU5d5D9okcwWKuvy_CRxVl8dKHEHiKT0d1uEyQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
     },
     {
         "id": "com.yallashoghl.app",
@@ -105,11 +63,60 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
     },
     {
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
+    },
+    {
+        "id": "dev.elsayed.ektshaf",
+        "name": "Counter Plus - Simple Counter",
+        "description": "تطبيق عداد لتتبع أي شيء بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/i-GiA-wAeotMfz8OBf_LLk8BTmRcpSxeMDtp5SyetVfI3zxQbvO_-Oa47qeoOi85JzY9KD0vvy4ZrYkmFd3z2w=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=dev.elsayed.ektshaf"
+    },
+    {
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
+    },
+    {
+        "id": "com.kg.football_app",
+        "name": "عالم الكورة",
+        "description": "تابع أخبار كرة القدم وملخصات المباريات بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/3F9wmp2i2TQRhGZPMGo3DPy9h8s8TiQDXSRUiIV3LmrEIqoB-LwMNOK3KWbAk3qcC6su5l50bFL6W86VN9LFfg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.football_app"
+    },
+    {
+        "id": "com.kg.qasas_quran",
+        "name": "قصص الأنبياء والقرآن",
+        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
+        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+    },
+    {
+        "id": "com.kg.games_adventures",
+        "name": "مغامرات الألعاب",
+        "description": "شاهد فيديوهات لمغامرات اللاعبين أثناء لعب الألعاب المختلفة",
+        "iconUrl": "https://play-lh.googleusercontent.com/5QdCtrujqb21qbKpYcUHCecmSV3-UuH0DM8TFyPRAkeW47bfuToT_4CjzmVHcyH8H0jBi0mOafuszHS5uziXJQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
+    },
+    {
         "id": "com.kg.recaps_movie_series",
         "name": "ملخصات الأفلام والمسلسلات",
         "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
         "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
+    },
+    {
+        "id": "com.kg.trend_grid",
+        "name": "Trending Grid",
+        "description": "اكتشف ما يبحث عنه العالم في تطبيق واحد!",
+        "iconUrl": "https://play-lh.googleusercontent.com/bSt6fiQWxG020EjqQGvM_zN8-Xz2p_UdB3dMsPGF9lC9XaJpHdBMJWCWHMGzREl2Pc-VIi1tp4bNqK_jpTid=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.trend_grid"
     },
     {
         "id": "com.anime.mpc3_anime_free",
@@ -131,12 +138,5 @@
         "description": "بوابتك الشاملة لكل جديد في عالم السينما والدراما",
         "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
-    },
-    {
-        "id": "com.code.online_games",
-        "name": "عالم الألعاب",
-        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
-        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
     }
 ]
