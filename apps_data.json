@@ -28,13 +28,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
     },
     {
-        "id": "com.kg.islamic_alafasy",
-        "name": "قرآن وأناشيد العفاسي",
-        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
-        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
-    },
-    {
         "id": "com.kh.remove.bg",
         "name": "استوديو تعديل الصور",
         "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
@@ -56,11 +49,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
     },
     {
-        "id": "com.kg.bmi.calc",
-        "name": "BodyIndex – BMI Calculator",
-        "description": "Calculate your Body Mass Index easily and quickly",
-        "iconUrl": "https://play-lh.googleusercontent.com/T2FqICsAxLTPZbkCBwjEkk54MKMPLry-QoZ5FPSzJKTHGvffW9yUX3kIvyGi-5AUFUyiM2o-jvTDs-QJSWucWg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.bmi.calc"
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
     },
     {
         "id": "dev.elsayed.ektshaf",
@@ -77,11 +70,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
     },
     {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
+        "id": "com.kg.islamic_alafasy",
+        "name": "قرآن وأناشيد العفاسي",
+        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
+        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
+    },
+    {
+        "id": "com.kg.bmi.calc",
+        "name": "BodyIndex – BMI Calculator",
+        "description": "Calculate your Body Mass Index easily and quickly",
+        "iconUrl": "https://play-lh.googleusercontent.com/T2FqICsAxLTPZbkCBwjEkk54MKMPLry-QoZ5FPSzJKTHGvffW9yUX3kIvyGi-5AUFUyiM2o-jvTDs-QJSWucWg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.bmi.calc"
     },
     {
         "id": "com.kg.tales_and_stories",
@@ -89,13 +89,6 @@
         "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
         "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
-    },
-    {
-        "id": "com.kg.football_app",
-        "name": "عالم الكورة",
-        "description": "تابع أخبار كرة القدم وملخصات المباريات بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/3F9wmp2i2TQRhGZPMGo3DPy9h8s8TiQDXSRUiIV3LmrEIqoB-LwMNOK3KWbAk3qcC6su5l50bFL6W86VN9LFfg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.football_app"
     },
     {
         "id": "com.kg.trend_grid",
@@ -112,11 +105,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
     },
     {
-        "id": "com.anime.mpc3_anime_free",
-        "name": "افلام انمي مدبلجة",
-        "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
-        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
+        "id": "com.kg.football_app",
+        "name": "عالم الكورة",
+        "description": "تابع أخبار كرة القدم وملخصات المباريات بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/3F9wmp2i2TQRhGZPMGo3DPy9h8s8TiQDXSRUiIV3LmrEIqoB-LwMNOK3KWbAk3qcC6su5l50bFL6W86VN9LFfg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.football_app"
     },
     {
         "id": "com.kg.horror_stories",
@@ -124,6 +117,13 @@
         "description": "فيديوهات حكايات رعب مشوقة",
         "iconUrl": "https://play-lh.googleusercontent.com/9UFQ_KBt6F1sodwX_wpYVQ2011epxAASQdtjmewFSqXP3gKzz5LFlvLL_lzb9j-lIB0BYrseLHXquWVWK4JOsg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.horror_stories"
+    },
+    {
+        "id": "com.anime.mpc3_anime_free",
+        "name": "افلام انمي مدبلجة",
+        "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
+        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
     },
     {
         "id": "com.kg.recaps_movie_series",
