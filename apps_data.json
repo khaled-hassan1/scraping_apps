@@ -63,11 +63,25 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
     },
     {
-        "id": "com.kg.qasas_quran",
-        "name": "قصص الأنبياء والقرآن",
-        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
-        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
+    },
+    {
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
+    },
+    {
+        "id": "com.kg.islamic_alafasy",
+        "name": "قرآن وأناشيد العفاسي",
+        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
+        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
     },
     {
         "id": "com.kg.football_app",
@@ -91,6 +105,13 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
     },
     {
+        "id": "com.kg.qasas_quran",
+        "name": "قصص الأنبياء والقرآن",
+        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
+        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+    },
+    {
         "id": "com.kg.horror_stories",
         "name": "رعب الحقيقة والخيال",
         "description": "فيديوهات حكايات رعب مشوقة",
@@ -105,32 +126,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.bmi.calc"
     },
     {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
-    },
-    {
-        "id": "com.kg.islamic_alafasy",
-        "name": "قرآن وأناشيد العفاسي",
-        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
-        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
-    },
-    {
         "id": "com.anime.mpc3_anime_free",
         "name": "افلام انمي مدبلجة",
         "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
         "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
-    },
-    {
-        "id": "com.kg.tales_and_stories",
-        "name": "حواديت وحكايات",
-        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
-        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     },
     {
         "id": "com.kg.recaps_movie_series",
