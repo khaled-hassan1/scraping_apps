@@ -1,5 +1,26 @@
 [
     {
+        "id": "com.kh.full_quran",
+        "name": "أنيسك مصحفك",
+        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
+        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
+    },
+    {
+        "id": "com.kh.remove.bg",
+        "name": "استوديو تعديل الصور",
+        "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/Tv_fcXjSftY3wi4T0zBV00IiGppY0-FTD2yLLEmd3WpTNgbZYL3eot77RHEL6m3O_DIuZ-f341nOkg7H0dGOZg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
+    },
+    {
+        "id": "com.note.sqlite_demo",
+        "name": "ملاحظاتي",
+        "description": "نوته بسيطة",
+        "iconUrl": "https://play-lh.googleusercontent.com/CrH-BGoyfzMRGR3378agu3T9_e19w6_DHvBU9HV8IxRr1MjI74hRGzIlvmK-nFa4nw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
+    },
+    {
         "id": "com.elragolel3nab.delivery",
         "name": "الرجل العناب",
         "description": "Order food easily from your favorite restaurants with fast delivery service",
@@ -49,11 +70,53 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=dev.elsayed.ektshaf"
     },
     {
+        "id": "com.khair.qatrahayat",
+        "name": "قطرة حياة",
+        "description": "اعثر على متبرعين بالدم أو سجّل كمتبرع بسهولة مع تطبيق قطرة حياة",
+        "iconUrl": "https://play-lh.googleusercontent.com/0EOuhMYU3vSVLWCsoGkQy0xBvT7aeZIun0YC50V_wM-rwgRncB0MkeI8fzbYgG94qMU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.khair.qatrahayat"
+    },
+    {
         "id": "com.yallashoghl.app",
         "name": "يلا شغل",
         "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
         "iconUrl": "https://play-lh.googleusercontent.com/NW-FDzaJAU1gFe_Dmt_1u_iEtVavk0Mz6hN6XsyyuuMc5rYEWQgXxdc8AXZGpsf5YiGomciM9T_oG4y_JJLqjLU=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
+    },
+    {
+        "id": "com.anime.mpc3_anime_free",
+        "name": "افلام انمي مدبلجة",
+        "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
+        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
+    },
+    {
+        "id": "com.kg.youtube_videos",
+        "name": "عروض مسرح مصر",
+        "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
+        "iconUrl": "https://play-lh.googleusercontent.com/3shbVRCnkxAb1MSJw-CZL4Kq-SdiUKrs_X3zYpHLXpMljEAeivByjGhUVtcGD18qak8rfyibqAKWGGPRLeO_AcE=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
+    },
+    {
+        "id": "com.anime.mpc3_anime",
+        "name": "كرتون مدبلج",
+        "description": "مشاهدة أفلام الكرتون المدبلجة",
+        "iconUrl": "https://play-lh.googleusercontent.com/cENBHp895sb8ZeRQCMsfiS21fmR_IZrbl7FIraGrHrzJEseIOiA4SQt9EY0nvN-0OLI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime"
+    },
+    {
+        "id": "com.kg.qasas_quran",
+        "name": "قصص الأنبياء والقرآن",
+        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
+        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+    },
+    {
+        "id": "com.code.world_movies_series",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "بوابتك الشاملة لكل جديد في عالم السينما والدراما",
+        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
     },
     {
         "id": "com.kg.horror_stories",
@@ -91,52 +154,10 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.trend_grid"
     },
     {
-        "id": "com.kg.bmi.calc",
-        "name": "BodyIndex – BMI Calculator",
-        "description": "Calculate your Body Mass Index easily and quickly",
-        "iconUrl": "https://play-lh.googleusercontent.com/T2FqICsAxLTPZbkCBwjEkk54MKMPLry-QoZ5FPSzJKTHGvffW9yUX3kIvyGi-5AUFUyiM2o-jvTDs-QJSWucWg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.bmi.calc"
-    },
-    {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
-    },
-    {
-        "id": "com.kg.qasas_quran",
-        "name": "قصص الأنبياء والقرآن",
-        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
-        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
-    },
-    {
-        "id": "com.kg.football_app",
-        "name": "عالم الكورة",
-        "description": "تابع أخبار كرة القدم وملخصات المباريات بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/3F9wmp2i2TQRhGZPMGo3DPy9h8s8TiQDXSRUiIV3LmrEIqoB-LwMNOK3KWbAk3qcC6su5l50bFL6W86VN9LFfg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.football_app"
-    },
-    {
-        "id": "com.kg.youtube_videos",
-        "name": "عروض مسرح مصر",
-        "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
-        "iconUrl": "https://play-lh.googleusercontent.com/3shbVRCnkxAb1MSJw-CZL4Kq-SdiUKrs_X3zYpHLXpMljEAeivByjGhUVtcGD18qak8rfyibqAKWGGPRLeO_AcE=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
-    },
-    {
-        "id": "com.code.online_games",
-        "name": "عالم الألعاب",
-        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
-        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
-    },
-    {
-        "id": "com.anime.mpc3_anime_free",
-        "name": "افلام انمي مدبلجة",
-        "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
-        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
+        "id": "com.kg.recaps_movie_series",
+        "name": "ملخصات الأفلام والمسلسلات",
+        "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
     }
 ]
