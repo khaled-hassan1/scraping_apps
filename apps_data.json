@@ -1,18 +1,5 @@
 [
-    {
-        "id": "com.kg.qr_code_pro",
-        "name": "ScanMaster – QR & Barcode",
-        "description": "ماسح QR وباركود سريع مع سجل ومشاركة سهلة",
-        "iconUrl": "https://play-lh.googleusercontent.com/4k6x90sMnb8v1Hics0F245X4sOm6pdm_rocLPqQL_cvdlfwbqpEnxm4DW6vgdMvy0E3yl3pWz1HnC75fTofhXyI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
-    },
-    {
-        "id": "com.az.calculators_plus",
-        "name": "حاسبات بلس – حاسبة شاملة",
-        "description": "حاسبات يومية: عملات، عمر، قروض، BMI والمزيد",
-        "iconUrl": "https://play-lh.googleusercontent.com/udOFjKx-sMAnSgpj0Xdnjkb0UCMTpLw94iGvXqlIQEvTqiUCZiiADGLb2teApmjJNQQaJOJ-VPkjaDpe6y2bfA=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.calculators_plus"
-    },
+   
     {
         "id": "com.az.all_sites_anime",
         "name": "عالم الأنمي – Anime World",
