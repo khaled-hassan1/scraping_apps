@@ -84,6 +84,13 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
     },
     {
+        "id": "com.kg.qasas_quran",
+        "name": "قصص الأنبياء والقرآن",
+        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
+        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+    },
+    {
         "id": "com.kg.youtube_videos",
         "name": "عروض مسرح مصر",
         "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
@@ -98,11 +105,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
     },
     {
-        "id": "com.kg.qasas_quran",
-        "name": "قصص الأنبياء والقرآن",
-        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
-        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+        "id": "com.kg.islamic_alafasy",
+        "name": "قرآن وأناشيد العفاسي",
+        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
+        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
     },
     {
         "id": "com.yallashoghl.app",
@@ -110,13 +117,6 @@
         "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
         "iconUrl": "https://play-lh.googleusercontent.com/NW-FDzaJAU1gFe_Dmt_1u_iEtVavk0Mz6hN6XsyyuuMc5rYEWQgXxdc8AXZGpsf5YiGomciM9T_oG4y_JJLqjLU=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
-    },
-    {
-        "id": "com.kg.islamic_alafasy",
-        "name": "قرآن وأناشيد العفاسي",
-        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
-        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
     },
     {
         "id": "com.coding.quiz_app",
@@ -140,18 +140,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
     },
     {
-        "id": "com.anime.mpc3_anime_free",
-        "name": "افلام انمي مدبلجة",
-        "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
-        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
-    },
-    {
         "id": "com.kg.games_adventures",
         "name": "مغامرات الألعاب",
         "description": "شاهد فيديوهات لمغامرات اللاعبين أثناء لعب الألعاب المختلفة",
         "iconUrl": "https://play-lh.googleusercontent.com/5QdCtrujqb21qbKpYcUHCecmSV3-UuH0DM8TFyPRAkeW47bfuToT_4CjzmVHcyH8H0jBi0mOafuszHS5uziXJQ=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
+    },
+    {
+        "id": "com.anime.mpc3_anime_free",
+        "name": "افلام انمي مدبلجة",
+        "description": "تطبيقك المفضل لمشاهدة الأنمي والكرتون المدبلج والمترجم",
+        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
     },
     {
         "id": "com.anime.mpc3_anime",
@@ -161,11 +161,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime"
     },
     {
-        "id": "com.kg.recaps_movie_series",
-        "name": "ملخصات الأفلام والمسلسلات",
-        "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
-        "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
+        "id": "com.kg.horror_stories",
+        "name": "رعب الحقيقة والخيال",
+        "description": "فيديوهات حكايات رعب مشوقة",
+        "iconUrl": "https://play-lh.googleusercontent.com/9UFQ_KBt6F1sodwX_wpYVQ2011epxAASQdtjmewFSqXP3gKzz5LFlvLL_lzb9j-lIB0BYrseLHXquWVWK4JOsg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.horror_stories"
     },
     {
         "id": "com.image_1.my_image_app",
@@ -182,10 +182,10 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.football_app"
     },
     {
-        "id": "com.kg.horror_stories",
-        "name": "رعب الحقيقة والخيال",
-        "description": "فيديوهات حكايات رعب مشوقة",
-        "iconUrl": "https://play-lh.googleusercontent.com/9UFQ_KBt6F1sodwX_wpYVQ2011epxAASQdtjmewFSqXP3gKzz5LFlvLL_lzb9j-lIB0BYrseLHXquWVWK4JOsg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.horror_stories"
+        "id": "com.kg.recaps_movie_series",
+        "name": "ملخصات الأفلام والمسلسلات",
+        "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
     }
 ]
