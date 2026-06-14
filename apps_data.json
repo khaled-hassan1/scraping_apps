@@ -15,8 +15,8 @@
     },
     {
         "id": "com.az.world_series_movies",
-        "name": "عالم المسلسلات والأفلام",
-        "description": "شاهد الأفلام والمسلسلات عبر الإنترنت بسهولة وسرعة",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "شاهد الأفلام والمسلسلات بسهولة من مواقع متعددة داخل التطبيق",
         "iconUrl": "https://play-lh.googleusercontent.com/HaPvZPQeN50GzfcoOR8g58vZX_wGZuznURuXxiiyWzoXbn8E3DCmYzX4ZfC-3TuRAtSZLcxoTgHbubDdLJ01Dyo=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.world_series_movies"
     },
@@ -28,17 +28,10 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
     },
     {
-        "id": "com.az.all_sites_anime",
-        "name": "عالم الأنمي – Anime World",
-        "description": "استكشف فيديوهات الأنمي والكرتون بسهولة وفي مكان واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/mcnvOZnLyqzO9hXnQ1nBjD-RJd8_swSxQAKgIbVbr0mqHdxVj5vJwKaZsmiVIiMYeSFeDEUXVUgfOmV9bUBw=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
-    },
-    {
         "id": "com.note.sqlite_demo",
         "name": "ملاحظاتي",
         "description": "نوته بسيطة",
-        "iconUrl": "https://play-lh.googleusercontent.com/CrH-BGoyfzMRGR3378agu3T9_e19w6_DHvBU9HV8IxRr1MjI74hRGzIlvmK-nFa4nw=s256",
+        "iconUrl": "https://play-lh.googleusercontent.com/ttxjn46YBadPtoahTyxddYPpP5jfqYHcTjI4N1_sKu8pCgRbk7FWMyzL21I4HXMx_4yg6DqFKYFofXcU0tfY=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
     },
     {
@@ -47,6 +40,13 @@
         "description": "حاسبات يومية: عملات، عمر، قروض، BMI والمزيد",
         "iconUrl": "https://play-lh.googleusercontent.com/udOFjKx-sMAnSgpj0Xdnjkb0UCMTpLw94iGvXqlIQEvTqiUCZiiADGLb2teApmjJNQQaJOJ-VPkjaDpe6y2bfA=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.calculators_plus"
+    },
+    {
+        "id": "com.app.arctic.fishing.game",
+        "name": "Artic Fishing",
+        "description": "Download Artic Fishing and enjoy the game!",
+        "iconUrl": "https://play-lh.googleusercontent.com/EopqK5yYpkSq8mIc5IyUpEc5F7zGxfmPupvqzVlMM0xP64Jfp2Fcu8FDIrQaFP_5XinPspgKe4xEW1XmBcMnzg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.arctic.fishing.game"
     },
     {
         "id": "com.elragolel3nab.delivery",
@@ -63,13 +63,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.elragol.restaurant.manager"
     },
     {
-        "id": "com.quran_2.quran_sound_2",
-        "name": "جزء عم للمنشاوي بترديد الأطفال",
-        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
-        "iconUrl": "https://play-lh.googleusercontent.com/H3I0M2cHohkCPJjwFBY5Ygq1Qu9xfU5d5D9okcwWKuvy_CRxVl8dKHEHiKT0d1uEyQ=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
-    },
-    {
         "id": "com.elragolel3nab.driver",
         "name": "توصيل عناب",
         "description": "تطبيق توصيل عناب - حل إدارة المبيعات والتوصيل الشامل",
@@ -77,18 +70,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.elragolel3nab.driver"
     },
     {
-        "id": "com.kg.qasas_quran",
-        "name": "قصص الأنبياء والقرآن",
-        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
-        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
-    },
-    {
-        "id": "com.kg.islamic_alafasy",
-        "name": "قرآن وأناشيد العفاسي",
-        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
-        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
+        "id": "com.quran_2.quran_sound_2",
+        "name": "جزء عم للمنشاوي بترديد الأطفال",
+        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
+        "iconUrl": "https://play-lh.googleusercontent.com/H3I0M2cHohkCPJjwFBY5Ygq1Qu9xfU5d5D9okcwWKuvy_CRxVl8dKHEHiKT0d1uEyQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
     },
     {
         "id": "com.kg.youtube_videos",
@@ -98,18 +84,25 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
     },
     {
-        "id": "com.code.world_movies_series",
-        "name": "عالم الأفلام والمسلسلات",
-        "description": "بوابتك الشاملة لكل جديد في عالم السينما والدراما",
-        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
+        "id": "com.kg.islamic_alafasy",
+        "name": "قرآن وأناشيد العفاسي",
+        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
+        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
     },
     {
-        "id": "com.code.online_games",
-        "name": "عالم الألعاب",
-        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
-        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+        "id": "com.kg.qasas_quran",
+        "name": "قصص الأنبياء والقرآن",
+        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
+        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+    },
+    {
+        "id": "com.code.world_movies_series",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "بوابتك الشاملة لكل ما هو جديد في عالم السينما والدراما",
+        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
     },
     {
         "id": "com.transport.samannud_toktok",
@@ -119,18 +112,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
     },
     {
+        "id": "com.code.online_games",
+        "name": "عالم الألعاب",
+        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
+        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
         "id": "com.coding.quiz_app",
         "name": "أسئلة على التجويد(شهادة تقدير)",
         "description": "اختبار بسيط على بعض قواعد التجويد وبه شهادة تقدير إذا تجاوزت 7 أسئلة صحيحة أو 50",
-        "iconUrl": "https://play-lh.googleusercontent.com/Y5jM7IJk-rQ82BMmG8LlcQZQ80cwUFo9YoIqNb_SWsrisNBRXXDnU5hUWogbsVRfnV_N=s256",
+        "iconUrl": "https://play-lh.googleusercontent.com/I5E17IKBe-jtQn_Pe-Ca90ZO1insD5Dzkd-37ypDtuQEszHp-SmbdC_YQQC5MTYfAz_FKZynK9DemPVGGoZGYbs=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
-    },
-    {
-        "id": "com.yallashoghl.app",
-        "name": "يلا شغل",
-        "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
-        "iconUrl": "https://play-lh.googleusercontent.com/NW-FDzaJAU1gFe_Dmt_1u_iEtVavk0Mz6hN6XsyyuuMc5rYEWQgXxdc8AXZGpsf5YiGomciM9T_oG4y_JJLqjLU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
     },
     {
         "id": "com.kg.tales_and_stories",
@@ -140,18 +133,25 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     },
     {
+        "id": "com.yallashoghl.app",
+        "name": "يلا شغل",
+        "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
+        "iconUrl": "https://play-lh.googleusercontent.com/NW-FDzaJAU1gFe_Dmt_1u_iEtVavk0Mz6hN6XsyyuuMc5rYEWQgXxdc8AXZGpsf5YiGomciM9T_oG4y_JJLqjLU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
+    },
+    {
         "id": "com.anime.mpc3_anime_free",
         "name": "أفلام أنمي مدبلجة",
         "description": "تطبيقك المفضل لمشاهدة الأنمي والرسوم المتحركة مترجمة ومدبلجة",
-        "iconUrl": "https://play-lh.googleusercontent.com/jESzNlstAkjMKdabjjvktxFF5cEzMuQego0YCvRHQ22CULyUA51sXbmM7YF_ln4Lavs=s256",
+        "iconUrl": "https://play-lh.googleusercontent.com/nISZS9IqoMlO0RBg-AgP7Oz7u1q-lFnQ2-Ky4SFIQ-0RDXTt4VGSIIODRfgIL77UL2Hq2lTmYQ-l_8l-Yn2-mQ=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
     },
     {
-        "id": "com.anime.mpc3_anime",
-        "name": "رسوم متحركة",
-        "description": "شاهد أفلام الكرتون المدبلجة",
-        "iconUrl": "https://play-lh.googleusercontent.com/cENBHp895sb8ZeRQCMsfiS21fmR_IZrbl7FIraGrHrzJEseIOiA4SQt9EY0nvN-0OLI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime"
+        "id": "com.kg.forty",
+        "name": "الأربعون النووية",
+        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
+        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
     },
     {
         "id": "com.kg.video.world",
@@ -168,11 +168,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
     },
     {
-        "id": "com.kg.forty",
-        "name": "الأربعون النووية",
-        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
-        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
+        "id": "com.kg.horror_stories",
+        "name": "رعب الحقيقة والخيال",
+        "description": "فيديوهات حكايات رعب مشوقة",
+        "iconUrl": "https://play-lh.googleusercontent.com/9UFQ_KBt6F1sodwX_wpYVQ2011epxAASQdtjmewFSqXP3gKzz5LFlvLL_lzb9j-lIB0BYrseLHXquWVWK4JOsg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.horror_stories"
     },
     {
         "id": "com.kg.games_adventures",
@@ -182,10 +182,10 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
     },
     {
-        "id": "com.kg.horror_stories",
-        "name": "رعب الحقيقة والخيال",
-        "description": "فيديوهات حكايات رعب مشوقة",
-        "iconUrl": "https://play-lh.googleusercontent.com/9UFQ_KBt6F1sodwX_wpYVQ2011epxAASQdtjmewFSqXP3gKzz5LFlvLL_lzb9j-lIB0BYrseLHXquWVWK4JOsg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.horror_stories"
+        "id": "com.quran1.quran_sound",
+        "name": "العشر الأخير للشيخ المنشاوي",
+        "description": "العشر الأخير أي جزء المجادلة و تبارك وعم للشيخ المنشاوي رحمه الله",
+        "iconUrl": "https://play-lh.googleusercontent.com/nnUhVZwd-jHZ2Jbgv8LISVSSkviY_nShFHiKZwczkCJNQOoWL5_7xpDm4RPaZZuV0J_s8eKZHQ3KqvEVnWUbOw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran1.quran_sound"
     }
 ]
