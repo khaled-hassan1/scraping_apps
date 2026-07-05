@@ -21,20 +21,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
     },
     {
-        "id": "com.kg.qasas_quran",
-        "name": "قصص الأنبياء والقرآن",
-        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
-        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
-    },
-    {
-        "id": "com.kh.full_quran",
-        "name": "أنيسك مصحفك",
-        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
-        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
-    },
-    {
         "id": "com.elragolel3nab.driver",
         "name": "توصيل عناب",
         "description": "تطبيق توصيل عناب - حل إدارة المبيعات والتوصيل الشامل",
@@ -42,11 +28,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.elragolel3nab.driver"
     },
     {
-        "id": "com.kg.islamic_alafasy",
-        "name": "قرآن وأناشيد العفاسي",
-        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
-        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
+        "id": "com.kg.qasas_quran",
+        "name": "قصص الأنبياء والقرآن",
+        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
+        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
     },
     {
         "id": "com.code.world_movies_series",
@@ -56,6 +42,13 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
     },
     {
+        "id": "com.kh.full_quran",
+        "name": "أنيسك مصحفك",
+        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
+        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
+    },
+    {
         "id": "com.kg.youtube_videos",
         "name": "عروض مسرح مصر",
         "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
@@ -63,11 +56,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
     },
     {
-        "id": "com.transport.samannud_toktok",
-        "name": "توك توك سمنود",
-        "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
-        "iconUrl": "https://play-lh.googleusercontent.com/eNFxcYqVXMI4jQBiYwlg_3un_3S5MObBOYCbd7UxfUQkktr-dJMG-rK1fZIjiN8TZGkt2L-8IFtPQS-0AhkYpS4=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
+        "id": "com.kg.islamic_alafasy",
+        "name": "قرآن وأناشيد العفاسي",
+        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
+        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
     },
     {
         "id": "com.kg.qr_code_pro",
@@ -77,67 +70,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
     },
     {
+        "id": "com.transport.samannud_toktok",
+        "name": "توك توك سمنود",
+        "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
+        "iconUrl": "https://play-lh.googleusercontent.com/eNFxcYqVXMI4jQBiYwlg_3un_3S5MObBOYCbd7UxfUQkktr-dJMG-rK1fZIjiN8TZGkt2L-8IFtPQS-0AhkYpS4=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
+    },
+    {
         "id": "com.yallashoghl.app",
         "name": "يلا شغل",
         "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
-        "iconUrl": "https://play-lh.googleusercontent.com/NW-FDzaJAU1gFe_Dmt_1u_iEtVavk0Mz6hN6XsyyuuMc5rYEWQgXxdc8AXZGpsf5YiGomciM9T_oG4y_JJLqjLU=s256",
+        "iconUrl": "https://play-lh.googleusercontent.com/UC_KVrEpx06NJfw3cRy_wYRfx6icvP4rB8E4LDSea5sLm14RGUVVn-0Us1a1SXcXGaLIpNsqCv8Uz_Mz0lkxAMs=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
-    },
-    {
-        "id": "com.code.online_games",
-        "name": "عالم الألعاب",
-        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
-        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
-    },
-    {
-        "id": "com.az.all_sites_anime",
-        "name": "عالم الأنمي – Anime world",
-        "description": "استكشف فيديوهات الأنمي والرسوم المتحركة بسهولة في مكان واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/mcnvOZnLyqzO9hXnQ1nBjD-RJd8_swSxQAKgIbVbr0mqHdxVj5vJwKaZsmiVIiMYeSFeDEUXVUgfOmV9bUBw=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
-    },
-    {
-        "id": "com.kg.forty",
-        "name": "الأربعون النووية",
-        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
-        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
-    },
-    {
-        "id": "com.az.world_series_movies",
-        "name": "عالم الأفلام والمسلسلات",
-        "description": "شاهد الأفلام والمسلسلات بسهولة من مواقع متعددة داخل التطبيق",
-        "iconUrl": "https://play-lh.googleusercontent.com/HaPvZPQeN50GzfcoOR8g58vZX_wGZuznURuXxiiyWzoXbn8E3DCmYzX4ZfC-3TuRAtSZLcxoTgHbubDdLJ01Dyo=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.world_series_movies"
-    },
-    {
-        "id": "com.kg.tales_and_stories",
-        "name": "حواديت وحكايات",
-        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
-        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
-    },
-    {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
-    },
-    {
-        "id": "com.kh.remove.bg",
-        "name": "استوديو تعديل الصور",
-        "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
-        "iconUrl": "https://play-lh.googleusercontent.com/Tv_fcXjSftY3wi4T0zBV00IiGppY0-FTD2yLLEmd3WpTNgbZYL3eot77RHEL6m3O_DIuZ-f341nOkg7H0dGOZg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
-    },
-    {
-        "id": "com.kg.horror_stories",
-        "name": "رعب الحقيقة والخيال",
-        "description": "فيديوهات حكايات رعب مشوقة",
-        "iconUrl": "https://play-lh.googleusercontent.com/9UFQ_KBt6F1sodwX_wpYVQ2011epxAASQdtjmewFSqXP3gKzz5LFlvLL_lzb9j-lIB0BYrseLHXquWVWK4JOsg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.horror_stories"
     },
     {
         "id": "com.coding.quiz_app",
@@ -147,6 +91,34 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
     },
     {
+        "id": "com.az.all_sites_anime",
+        "name": "عالم الأنمي – Anime world",
+        "description": "استكشف فيديوهات الأنمي والرسوم المتحركة بسهولة في مكان واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/mcnvOZnLyqzO9hXnQ1nBjD-RJd8_swSxQAKgIbVbr0mqHdxVj5vJwKaZsmiVIiMYeSFeDEUXVUgfOmV9bUBw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
+    },
+    {
+        "id": "com.code.online_games",
+        "name": "عالم الألعاب",
+        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
+        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
+        "id": "com.kg.forty",
+        "name": "الأربعون النووية",
+        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
+        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
+    },
+    {
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
+    },
+    {
         "id": "com.anime.mpc3_anime_free",
         "name": "أفلام أنمي مدبلجة",
         "description": "تطبيقك المفضل لمشاهدة الأنمي والرسوم المتحركة مترجمة ومدبلجة",
@@ -154,10 +126,24 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
     },
     {
-        "id": "com.anime.mpc3_anime",
-        "name": "كرتون مدبلج",
-        "description": "شاهد أفلام الكرتون المدبلجة",
-        "iconUrl": "https://play-lh.googleusercontent.com/kuFOkLUbmgW0_XMmdMSFvHAvxpzOLbn2OrvYATSnCusFyNgQp76UAW5hyWfGA4Oqo2u8IjQujmNkbncMf0avNYw=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime"
+        "id": "com.az.world_series_movies",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "شاهد الأفلام والمسلسلات بسهولة من مواقع متعددة داخل التطبيق",
+        "iconUrl": "https://play-lh.googleusercontent.com/HaPvZPQeN50GzfcoOR8g58vZX_wGZuznURuXxiiyWzoXbn8E3DCmYzX4ZfC-3TuRAtSZLcxoTgHbubDdLJ01Dyo=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.world_series_movies"
+    },
+    {
+        "id": "com.kh.remove.bg",
+        "name": "استوديو تعديل الصور",
+        "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/Tv_fcXjSftY3wi4T0zBV00IiGppY0-FTD2yLLEmd3WpTNgbZYL3eot77RHEL6m3O_DIuZ-f341nOkg7H0dGOZg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
+    },
+    {
+        "id": "com.note.sqlite_demo",
+        "name": "ملاحظاتي",
+        "description": "نوته بسيطة",
+        "iconUrl": "https://play-lh.googleusercontent.com/ttxjn46YBadPtoahTyxddYPpP5jfqYHcTjI4N1_sKu8pCgRbk7FWMyzL21I4HXMx_4yg6DqFKYFofXcU0tfY=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
     }
 ]
