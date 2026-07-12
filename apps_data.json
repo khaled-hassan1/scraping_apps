@@ -42,18 +42,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
     },
     {
-        "id": "com.kh.full_quran",
-        "name": "أنيسك مصحفك",
-        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
-        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
-    },
-    {
         "id": "com.kg.youtube_videos",
         "name": "عروض مسرح مصر",
         "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
         "iconUrl": "https://play-lh.googleusercontent.com/J6CxZr7pXtOMuSqPH3P-VhkYqqLU0296jrq-B6yovbBuGCyvWqZJJ7U0s3VX0O3B0SWDOpESxlrTcXY1EjFY1uU=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
+    },
+    {
+        "id": "com.kh.full_quran",
+        "name": "أنيسك مصحفك",
+        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
+        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
     },
     {
         "id": "com.kg.islamic_alafasy",
@@ -63,32 +63,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
     },
     {
-        "id": "com.kg.qr_code_pro",
-        "name": "ScanMaster – QR & Barcode",
-        "description": "ماسح QR وباركود سريع مع سجل ومشاركة سهلة",
-        "iconUrl": "https://play-lh.googleusercontent.com/4k6x90sMnb8v1Hics0F245X4sOm6pdm_rocLPqQL_cvdlfwbqpEnxm4DW6vgdMvy0E3yl3pWz1HnC75fTofhXyI=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
-    },
-    {
         "id": "com.transport.samannud_toktok",
         "name": "توك توك سمنود",
         "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
         "iconUrl": "https://play-lh.googleusercontent.com/eNFxcYqVXMI4jQBiYwlg_3un_3S5MObBOYCbd7UxfUQkktr-dJMG-rK1fZIjiN8TZGkt2L-8IFtPQS-0AhkYpS4=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
-    },
-    {
-        "id": "com.yallashoghl.app",
-        "name": "يلا شغل",
-        "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
-        "iconUrl": "https://play-lh.googleusercontent.com/UC_KVrEpx06NJfw3cRy_wYRfx6icvP4rB8E4LDSea5sLm14RGUVVn-0Us1a1SXcXGaLIpNsqCv8Uz_Mz0lkxAMs=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
-    },
-    {
-        "id": "com.coding.quiz_app",
-        "name": "أسئلة على التجويد(شهادة تقدير)",
-        "description": "اختبار بسيط على بعض قواعد التجويد وبه شهادة تقدير إذا تجاوزت 7 أسئلة صحيحة أو 50",
-        "iconUrl": "https://play-lh.googleusercontent.com/I5E17IKBe-jtQn_Pe-Ca90ZO1insD5Dzkd-37ypDtuQEszHp-SmbdC_YQQC5MTYfAz_FKZynK9DemPVGGoZGYbs=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
     },
     {
         "id": "com.az.all_sites_anime",
@@ -98,11 +77,39 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
     },
     {
+        "id": "com.kg.qr_code_pro",
+        "name": "ScanMaster – QR & Barcode",
+        "description": "ماسح QR وباركود سريع مع سجل ومشاركة سهلة",
+        "iconUrl": "https://play-lh.googleusercontent.com/4k6x90sMnb8v1Hics0F245X4sOm6pdm_rocLPqQL_cvdlfwbqpEnxm4DW6vgdMvy0E3yl3pWz1HnC75fTofhXyI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
+    },
+    {
+        "id": "com.coding.quiz_app",
+        "name": "أسئلة على التجويد(شهادة تقدير)",
+        "description": "اختبار بسيط على بعض قواعد التجويد وبه شهادة تقدير إذا تجاوزت 7 أسئلة صحيحة أو 50",
+        "iconUrl": "https://play-lh.googleusercontent.com/I5E17IKBe-jtQn_Pe-Ca90ZO1insD5Dzkd-37ypDtuQEszHp-SmbdC_YQQC5MTYfAz_FKZynK9DemPVGGoZGYbs=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
+    },
+    {
+        "id": "com.yallashoghl.app",
+        "name": "يلا شغل",
+        "description": "لتسهيل تنفيذ الخدمات والإصلاحات",
+        "iconUrl": "https://play-lh.googleusercontent.com/NW-FDzaJAU1gFe_Dmt_1u_iEtVavk0Mz6hN6XsyyuuMc5rYEWQgXxdc8AXZGpsf5YiGomciM9T_oG4y_JJLqjLU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yallashoghl.app"
+    },
+    {
         "id": "com.code.online_games",
         "name": "عالم الألعاب",
         "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
         "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
+        "id": "com.az.world_series_movies",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "شاهد الأفلام والمسلسلات بسهولة من مواقع متعددة داخل التطبيق",
+        "iconUrl": "https://play-lh.googleusercontent.com/HaPvZPQeN50GzfcoOR8g58vZX_wGZuznURuXxiiyWzoXbn8E3DCmYzX4ZfC-3TuRAtSZLcxoTgHbubDdLJ01Dyo=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.world_series_movies"
     },
     {
         "id": "com.kg.forty",
@@ -112,13 +119,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
     },
     {
-        "id": "com.kg.tales_and_stories",
-        "name": "حواديت وحكايات",
-        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
-        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
-    },
-    {
         "id": "com.anime.mpc3_anime_free",
         "name": "أفلام أنمي مدبلجة",
         "description": "تطبيقك المفضل لمشاهدة الأنمي والرسوم المتحركة مترجمة ومدبلجة",
@@ -126,11 +126,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
     },
     {
-        "id": "com.az.world_series_movies",
-        "name": "عالم الأفلام والمسلسلات",
-        "description": "شاهد الأفلام والمسلسلات بسهولة من مواقع متعددة داخل التطبيق",
-        "iconUrl": "https://play-lh.googleusercontent.com/HaPvZPQeN50GzfcoOR8g58vZX_wGZuznURuXxiiyWzoXbn8E3DCmYzX4ZfC-3TuRAtSZLcxoTgHbubDdLJ01Dyo=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.world_series_movies"
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     },
     {
         "id": "com.kh.remove.bg",
