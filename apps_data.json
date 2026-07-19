@@ -35,13 +35,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
     },
     {
-        "id": "com.kg.youtube_videos",
-        "name": "عروض مسرح مصر",
-        "description": "استمتع بمشاهدة العروض المسرحية والكوميدية لنجوم مسرح مصر",
-        "iconUrl": "https://play-lh.googleusercontent.com/J6CxZr7pXtOMuSqPH3P-VhkYqqLU0296jrq-B6yovbBuGCyvWqZJJ7U0s3VX0O3B0SWDOpESxlrTcXY1EjFY1uU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
-    },
-    {
         "id": "com.code.world_movies_series",
         "name": "عالم الأفلام والمسلسلات",
         "description": "بوابتك الشاملة لكل ما هو جديد في عالم السينما والدراما",
@@ -56,18 +49,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
     },
     {
-        "id": "com.kh.full_quran",
-        "name": "أنيسك مصحفك",
-        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
-        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
-    },
-    {
         "id": "com.kg.qr_code_pro",
         "name": "ScanMaster – QR & Barcode",
         "description": "ماسح QR وباركود سريع مع سجل ومشاركة سهلة",
         "iconUrl": "https://play-lh.googleusercontent.com/4k6x90sMnb8v1Hics0F245X4sOm6pdm_rocLPqQL_cvdlfwbqpEnxm4DW6vgdMvy0E3yl3pWz1HnC75fTofhXyI=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
+    },
+    {
+        "id": "com.kh.full_quran",
+        "name": "أنيسك مصحفك",
+        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
+        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
     },
     {
         "id": "com.coding.quiz_app",
@@ -91,13 +84,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     },
     {
-        "id": "com.kg.islamic_alafasy",
-        "name": "قرآن وأناشيد العفاسي",
-        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
-        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
-    },
-    {
         "id": "com.az.all_sites_anime",
         "name": "عالم الأنمي – Anime world",
         "description": "استكشف فيديوهات الأنمي والرسوم المتحركة بسهولة في مكان واحد",
@@ -119,11 +105,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
     },
     {
-        "id": "com.kg_as.snack_game",
-        "name": "السلم والثعبان مع الأصدقاء",
-        "description": "ارمِ النرد، تسلّق السلم، واهرب من الثعبان! تحدَّ أصدقاءك الآن",
-        "iconUrl": "https://play-lh.googleusercontent.com/iHBSCJTo0n_cM59u8unwnl2hOEq_Xn6xL_rgh-mrPEeOM9iUliaJkGOePunH7AQIqpl8Gik-as4GwSRDw39YSw=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg_as.snack_game"
+        "id": "com.app.slime.chronicles",
+        "name": "Slime Chronicles",
+        "description": "Download Slime Chronicles and enjoy the game!",
+        "iconUrl": "https://play-lh.googleusercontent.com/5ZlT29LrEZBoR4zFerfVj1vXnWb4ZjGe0e48tEIOqX_hgrT9oKzZYLGG5vAaf-I0ds6tP6ARBM-ecxLvmPyt=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.slime.chronicles"
+    },
+    {
+        "id": "com.kg.islamic_alafasy",
+        "name": "قرآن وأناشيد العفاسي",
+        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
+        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
     },
     {
         "id": "com.kg.forty",
@@ -131,6 +124,13 @@
         "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
         "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
+    },
+    {
+        "id": "com.kg_as.snack_game",
+        "name": "السلم والثعبان مع الأصدقاء",
+        "description": "ارمِ النرد، تسلّق السلم، واهرب من الثعبان! تحدَّ أصدقاءك الآن",
+        "iconUrl": "https://play-lh.googleusercontent.com/iHBSCJTo0n_cM59u8unwnl2hOEq_Xn6xL_rgh-mrPEeOM9iUliaJkGOePunH7AQIqpl8Gik-as4GwSRDw39YSw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg_as.snack_game"
     },
     {
         "id": "com.code.online_games",
