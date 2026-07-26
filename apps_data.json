@@ -35,18 +35,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
     },
     {
-        "id": "com.code.world_movies_series",
-        "name": "عالم الأفلام والمسلسلات",
-        "description": "بوابتك الشاملة لكل ما هو جديد في عالم السينما والدراما",
-        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
-    },
-    {
         "id": "com.transport.samannud_toktok",
         "name": "توك توك سمنود",
         "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
         "iconUrl": "https://play-lh.googleusercontent.com/eNFxcYqVXMI4jQBiYwlg_3un_3S5MObBOYCbd7UxfUQkktr-dJMG-rK1fZIjiN8TZGkt2L-8IFtPQS-0AhkYpS4=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
+    },
+    {
+        "id": "com.code.world_movies_series",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "بوابتك الشاملة لكل ما هو جديد في عالم السينما والدراما",
+        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
     },
     {
         "id": "com.kg.qr_code_pro",
@@ -70,60 +70,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
     },
     {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
-    },
-    {
-        "id": "com.kg.tales_and_stories",
-        "name": "حواديت وحكايات",
-        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
-        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
-    },
-    {
         "id": "com.az.all_sites_anime",
         "name": "عالم الأنمي – Anime world",
         "description": "استكشف فيديوهات الأنمي والرسوم المتحركة بسهولة في مكان واحد",
         "iconUrl": "https://play-lh.googleusercontent.com/mcnvOZnLyqzO9hXnQ1nBjD-RJd8_swSxQAKgIbVbr0mqHdxVj5vJwKaZsmiVIiMYeSFeDEUXVUgfOmV9bUBw=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
-    },
-    {
-        "id": "com.anime.mpc3_anime_free",
-        "name": "أفلام أنمي مدبلجة",
-        "description": "تطبيقك المفضل لمشاهدة الأنمي والرسوم المتحركة مترجمة ومدبلجة",
-        "iconUrl": "https://play-lh.googleusercontent.com/nISZS9IqoMlO0RBg-AgP7Oz7u1q-lFnQ2-Ky4SFIQ-0RDXTt4VGSIIODRfgIL77UL2Hq2lTmYQ-l_8l-Yn2-mQ=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
-    },
-    {
-        "id": "com.kg.games_adventures",
-        "name": "مغامرات الألعاب",
-        "description": "شاهد فيديوهات لمغامرات اللاعبين أثناء لعب الألعاب المختلفة",
-        "iconUrl": "https://play-lh.googleusercontent.com/5QdCtrujqb21qbKpYcUHCecmSV3-UuH0DM8TFyPRAkeW47bfuToT_4CjzmVHcyH8H0jBi0mOafuszHS5uziXJQ=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
-    },
-    {
-        "id": "com.app.slime.chronicles",
-        "name": "Slime Chronicles",
-        "description": "Download Slime Chronicles and enjoy the game!",
-        "iconUrl": "https://play-lh.googleusercontent.com/5ZlT29LrEZBoR4zFerfVj1vXnWb4ZjGe0e48tEIOqX_hgrT9oKzZYLGG5vAaf-I0ds6tP6ARBM-ecxLvmPyt=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.app.slime.chronicles"
-    },
-    {
-        "id": "com.kg.islamic_alafasy",
-        "name": "قرآن وأناشيد العفاسي",
-        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
-        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
-    },
-    {
-        "id": "com.kg.forty",
-        "name": "الأربعون النووية",
-        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
-        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
     },
     {
         "id": "com.kg_as.snack_game",
@@ -133,11 +84,60 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg_as.snack_game"
     },
     {
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
+    },
+    {
+        "id": "com.anime.mpc3_anime_free",
+        "name": "أفلام أنمي مدبلجة",
+        "description": "تطبيقك المفضل لمشاهدة الأنمي والرسوم المتحركة مترجمة ومدبلجة",
+        "iconUrl": "https://play-lh.googleusercontent.com/nISZS9IqoMlO0RBg-AgP7Oz7u1q-lFnQ2-Ky4SFIQ-0RDXTt4VGSIIODRfgIL77UL2Hq2lTmYQ-l_8l-Yn2-mQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
+    },
+    {
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
+    },
+    {
+        "id": "com.kg.games_adventures",
+        "name": "مغامرات الألعاب",
+        "description": "شاهد فيديوهات لمغامرات اللاعبين أثناء لعب الألعاب المختلفة",
+        "iconUrl": "https://play-lh.googleusercontent.com/5QdCtrujqb21qbKpYcUHCecmSV3-UuH0DM8TFyPRAkeW47bfuToT_4CjzmVHcyH8H0jBi0mOafuszHS5uziXJQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
+    },
+    {
+        "id": "com.kh.remove.bg",
+        "name": "استوديو تعديل الصور",
+        "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/Tv_fcXjSftY3wi4T0zBV00IiGppY0-FTD2yLLEmd3WpTNgbZYL3eot77RHEL6m3O_DIuZ-f341nOkg7H0dGOZg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
+    },
+    {
         "id": "com.code.online_games",
         "name": "عالم الألعاب",
         "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
         "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
+        "id": "com.kg.forty",
+        "name": "الأربعون النووية",
+        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
+        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
+    },
+    {
+        "id": "com.kg.recaps_movie_series",
+        "name": "ملخصات الأفلام والمسلسلات",
+        "description": "اطّلع على ملخصات الأفلام والمسلسلات بطريقة سهلة وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/eDfmLp0IfL7tj1CvEddj6vsY0-mEUMtyWyXwPi5pUHpVAcB77kFUPPJChFloEAnHDioVBjzHaYHmVUo5ENYvm4M=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.recaps_movie_series"
     },
     {
         "id": "com.note.sqlite_demo",
