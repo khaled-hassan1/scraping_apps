@@ -35,13 +35,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
     },
     {
-        "id": "com.kg.youtube_videos",
-        "name": "عروض مصر",
-        "description": "تطبيق لمشاهدة ومتابعة أحدث العروض والمسرحيات الكوميدية وفيديوهات الترفيه",
-        "iconUrl": "https://play-lh.googleusercontent.com/J6CxZr7pXtOMuSqPH3P-VhkYqqLU0296jrq-B6yovbBuGCyvWqZJJ7U0s3VX0O3B0SWDOpESxlrTcXY1EjFY1uU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
-    },
-    {
         "id": "com.transport.samannud_toktok",
         "name": "توك توك سمنود",
         "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
@@ -56,18 +49,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
     },
     {
+        "id": "com.kg.youtube_videos",
+        "name": "عروض مصر",
+        "description": "تطبيق لمشاهدة ومتابعة أحدث العروض والمسرحيات الكوميدية وفيديوهات الترفيه",
+        "iconUrl": "https://play-lh.googleusercontent.com/J6CxZr7pXtOMuSqPH3P-VhkYqqLU0296jrq-B6yovbBuGCyvWqZJJ7U0s3VX0O3B0SWDOpESxlrTcXY1EjFY1uU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
+    },
+    {
         "id": "com.kg.qr_code_pro",
         "name": "ScanMaster – QR & Barcode",
         "description": "ماسح QR وباركود سريع مع سجل ومشاركة سهلة",
         "iconUrl": "https://play-lh.googleusercontent.com/4k6x90sMnb8v1Hics0F245X4sOm6pdm_rocLPqQL_cvdlfwbqpEnxm4DW6vgdMvy0E3yl3pWz1HnC75fTofhXyI=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
-    },
-    {
-        "id": "com.kh.full_quran",
-        "name": "أنيسك مصحفك",
-        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
-        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
     },
     {
         "id": "com.az.all_sites_anime",
@@ -84,11 +77,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
     },
     {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
+        "id": "com.kh.full_quran",
+        "name": "أنيسك مصحفك",
+        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
+        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
     },
     {
         "id": "com.kg_as.snack_game",
@@ -96,6 +89,13 @@
         "description": "ارمِ النرد، تسلّق السلم، واهرب من الثعبان! تحدَّ أصدقاءك الآن",
         "iconUrl": "https://play-lh.googleusercontent.com/iHBSCJTo0n_cM59u8unwnl2hOEq_Xn6xL_rgh-mrPEeOM9iUliaJkGOePunH7AQIqpl8Gik-as4GwSRDw39YSw=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg_as.snack_game"
+    },
+    {
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
     },
     {
         "id": "com.anime.mpc3_anime_free",
@@ -112,13 +112,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     },
     {
-        "id": "com.kg.forty",
-        "name": "الأربعون النووية",
-        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
-        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
-    },
-    {
         "id": "com.kg.games_adventures",
         "name": "مغامرات الألعاب",
         "description": "شاهد فيديوهات لمغامرات اللاعبين أثناء لعب الألعاب المختلفة",
@@ -126,11 +119,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
     },
     {
-        "id": "com.code.online_games",
-        "name": "عالم الألعاب",
-        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
-        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+        "id": "com.kg.forty",
+        "name": "الأربعون النووية",
+        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
+        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
     },
     {
         "id": "com.kh.remove.bg",
@@ -138,6 +131,13 @@
         "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
         "iconUrl": "https://play-lh.googleusercontent.com/Tv_fcXjSftY3wi4T0zBV00IiGppY0-FTD2yLLEmd3WpTNgbZYL3eot77RHEL6m3O_DIuZ-f341nOkg7H0dGOZg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
+    },
+    {
+        "id": "com.code.online_games",
+        "name": "عالم الألعاب",
+        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
+        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
     },
     {
         "id": "com.az.games_free",
@@ -154,11 +154,25 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
     },
     {
+        "id": "com.az.casual_games",
+        "name": "بوابة العاب الكاجوال -Casual",
+        "description": "بوابة موحدة لأشهر مواقع الألعاب الكاجوال المجانية أونلاين بتصميم عصري وسريع",
+        "iconUrl": "https://play-lh.googleusercontent.com/L5o8moU3sM_Y54gm6lF2BnpuuFTF9uf3_Gz0wccPe2_CPO3qG48FZEOCX2xQEcNmEK5STxs2wycHoEx1zybc_d0=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.casual_games"
+    },
+    {
         "id": "com.az.puzzle_games",
         "name": "بوابة ألعاب الألغاز - Puzzle",
         "description": "بوابة ألعاب الألغاز: أفضل ألعاب التفكير والذكاء من أشهر المواقع في مكان واحد",
         "iconUrl": "https://play-lh.googleusercontent.com/3kHPF8NRxqLV3ZfkR0ju-a71Hlep4dhcoHB74ACYXMPwYX9hqUF_h5MgNh9byU0dhF2EaqIRwyy1530mSi2b-w=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.puzzle_games"
+    },
+    {
+        "id": "com.az.short_drama",
+        "name": "دراما قصيرة - AI",
+        "description": "دراما قصيرة - AI: وصول سريع لمواقع الدراما الاسيوية المفضلة لديك في مكان واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/OT2g8xvgYWjWQlkrsV2t4fHutKoq7wMB1W1gP8AIAT-n9WX7Lza2hekj8BBg8dI_uFKcnXh_cXZXyoAoqNT7bPU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.short_drama"
     },
     {
         "id": "com.az.racing_games",
