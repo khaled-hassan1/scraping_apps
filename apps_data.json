@@ -70,13 +70,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
     },
     {
-        "id": "com.code.online_games",
-        "name": "عالم الألعاب",
-        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
-        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
-    },
-    {
         "id": "com.kh.full_quran",
         "name": "أنيسك مصحفك",
         "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
@@ -91,6 +84,13 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
     },
     {
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
+    },
+    {
         "id": "com.kg.tmdb",
         "name": "نوفا ستريم",
         "description": "نوفا ستريم: شاهد أفضل البرامج التلفزيونية والأفلام والترفيه اللامتناهي",
@@ -98,18 +98,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tmdb"
     },
     {
+        "id": "com.code.online_games",
+        "name": "عالم الألعاب",
+        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
+        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
         "id": "com.anime.mpc3_anime_free",
         "name": "أفلام أنمي مدبلجة",
         "description": "تطبيقك المفضل لمشاهدة الأنمي والرسوم المتحركة مترجمة ومدبلجة",
         "iconUrl": "https://play-lh.googleusercontent.com/nISZS9IqoMlO0RBg-AgP7Oz7u1q-lFnQ2-Ky4SFIQ-0RDXTt4VGSIIODRfgIL77UL2Hq2lTmYQ-l_8l-Yn2-mQ=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
-    },
-    {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
     },
     {
         "id": "com.kg_as.snack_game",
@@ -147,11 +147,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.short_drama"
     },
     {
-        "id": "com.az.action_games",
-        "name": "بوابة العاب الأكشن - Action",
-        "description": "بوابتك لأقوى ألعاب الأكشن أونلاين – قتال ومغامرات وحركة بلا توقف!",
-        "iconUrl": "https://play-lh.googleusercontent.com/kDS8--cyvZFEKBGw1Pl3Kg7uZw8xDnWCubYO7m8VV6LOQeMxWvG0Oto1lP-apsSCBuEi5HgpL9gE5wjKSN-R=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.action_games"
+        "id": "com.az.quiz_app_2",
+        "name": "أسئلة على التجويد 2",
+        "description": "اختبر حفظك لأحكام التجويد مع معلمك، واحصل على شهادة تقدير فور نجاحك",
+        "iconUrl": "https://play-lh.googleusercontent.com/RHUQaFzw01Ym6GsXcl5BbzWw3iCZt4SMFRtjdSbWZuuivpqrE7792gpYeyPFvL7Y-IVpDjQ73oRF96HiFbDMLfY=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.quiz_app_2"
     },
     {
         "id": "com.az.casual_games",
@@ -161,18 +161,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.casual_games"
     },
     {
-        "id": "com.az.quiz_app_2",
-        "name": "أسئلة على التجويد 2",
-        "description": "اختبر حفظك لأحكام التجويد مع معلمك، واحصل على شهادة تقدير فور نجاحك",
-        "iconUrl": "https://play-lh.googleusercontent.com/RHUQaFzw01Ym6GsXcl5BbzWw3iCZt4SMFRtjdSbWZuuivpqrE7792gpYeyPFvL7Y-IVpDjQ73oRF96HiFbDMLfY=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.quiz_app_2"
-    },
-    {
-        "id": "com.az.games_free",
-        "name": "بوابة الألعاب - Games Portal",
-        "description": "مئات الألعاب المصنّفة في مكان واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/ih-P5n5iiPmwizpAjpeBYFbQQU-oRBwHB9rjTAV7RcnWc7Rf0y6lybiKLFrExLWHxV3S4GGY5Uc6YiFjZnW4UQ=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.games_free"
+        "id": "com.az.action_games",
+        "name": "بوابة العاب الأكشن - Action",
+        "description": "بوابتك لأقوى ألعاب الأكشن أونلاين – قتال ومغامرات وحركة بلا توقف!",
+        "iconUrl": "https://play-lh.googleusercontent.com/kDS8--cyvZFEKBGw1Pl3Kg7uZw8xDnWCubYO7m8VV6LOQeMxWvG0Oto1lP-apsSCBuEi5HgpL9gE5wjKSN-R=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.action_games"
     },
     {
         "id": "com.note.sqlite_demo",
@@ -180,6 +173,13 @@
         "description": "نوته بسيطة",
         "iconUrl": "https://play-lh.googleusercontent.com/ttxjn46YBadPtoahTyxddYPpP5jfqYHcTjI4N1_sKu8pCgRbk7FWMyzL21I4HXMx_4yg6DqFKYFofXcU0tfY=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
+    },
+    {
+        "id": "com.az.games_free",
+        "name": "بوابة الألعاب - Games Portal",
+        "description": "مئات الألعاب المصنّفة في مكان واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/ih-P5n5iiPmwizpAjpeBYFbQQU-oRBwHB9rjTAV7RcnWc7Rf0y6lybiKLFrExLWHxV3S4GGY5Uc6YiFjZnW4UQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.games_free"
     },
     {
         "id": "com.az.puzzle_games",
