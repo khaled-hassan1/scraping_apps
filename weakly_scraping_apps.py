@@ -81,7 +81,7 @@ class GooglePlayScraper:
 
 if __name__ == "__main__":
     dev_links = [
-        "https://play.google.com/store/apps/developer?id=Asmaa+Zamel",
+        "https://play.google.com/store/apps/developer?id=Code+Matrix+Dev",
         "https://play.google.com/store/apps/developer?id=K.G.+Apps",
     ]
 
