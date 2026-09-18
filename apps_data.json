@@ -1,10 +1,150 @@
 [
     {
-        "id": "com.az.short_drama",
-        "name": "دراما قصيرة - AI",
-        "description": "دراما قصيرة - AI: وصول سريع لمواقع الدراما الاسيوية المفضلة لديك في مكان واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/OT2g8xvgYWjWQlkrsV2t4fHutKoq7wMB1W1gP8AIAT-n9WX7Lza2hekj8BBg8dI_uFKcnXh_cXZXyoAoqNT7bPU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.short_drama"
+        "id": "com.kg.youtube_videos",
+        "name": "عروض مصر",
+        "description": "تطبيق لمشاهدة ومتابعة أحدث العروض والمسرحيات الكوميدية وفيديوهات الترفيه",
+        "iconUrl": "https://play-lh.googleusercontent.com/J6CxZr7pXtOMuSqPH3P-VhkYqqLU0296jrq-B6yovbBuGCyvWqZJJ7U0s3VX0O3B0SWDOpESxlrTcXY1EjFY1uU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
+    },
+    {
+        "id": "com.quran_2.quran_sound_2",
+        "name": "جزء عم للمنشاوي بترديد الأطفال",
+        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
+        "iconUrl": "https://play-lh.googleusercontent.com/6Gb-pd0WDIRAHLg73oQzDSPCo43H4s66j8sgTIMExUzvA6DNMsI_85t0-SCXxClpT5isIiaGYMpN4kJu3dD2Lg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
+    },
+    {
+        "id": "com.code.world_movies_series",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "بوابتك الشاملة لكل ما هو جديد في عالم السينما والدراما",
+        "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
+    },
+    {
+        "id": "com.kg.qasas_quran",
+        "name": "قصص الأنبياء والقرآن",
+        "description": "تعرّف على قصص الأنبياء والقرآن الكريم بأسلوب مبسّط وواضح",
+        "iconUrl": "https://play-lh.googleusercontent.com/nzgMCshLJafwz88FlQrwQ3qLxoAnQ3QNZtvmvStBXRJ5QXEssztEurh_3ntcRnj1lVC8D5W6eRRXGvo_eLEy7SI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
+    },
+    {
+        "id": "com.kg.qr_code_pro",
+        "name": "ScanMaster – QR & Barcode",
+        "description": "ماسح QR وباركود سريع مع سجل ومشاركة سهلة",
+        "iconUrl": "https://play-lh.googleusercontent.com/4k6x90sMnb8v1Hics0F245X4sOm6pdm_rocLPqQL_cvdlfwbqpEnxm4DW6vgdMvy0E3yl3pWz1HnC75fTofhXyI=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qr_code_pro"
+    },
+    {
+        "id": "com.transport.samannud_toktok",
+        "name": "توك توك سمنود",
+        "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
+        "iconUrl": "https://play-lh.googleusercontent.com/eNFxcYqVXMI4jQBiYwlg_3un_3S5MObBOYCbd7UxfUQkktr-dJMG-rK1fZIjiN8TZGkt2L-8IFtPQS-0AhkYpS4=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
+    },
+    {
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
+    },
+    {
+        "id": "com.coding.quiz_app",
+        "name": "أسئلة على التجويد(شهادة تقدير)",
+        "description": "اختبار بسيط على بعض قواعد التجويد وبه شهادة تقدير إذا تجاوزت 7 أسئلة صحيحة أو 50",
+        "iconUrl": "https://play-lh.googleusercontent.com/I5E17IKBe-jtQn_Pe-Ca90ZO1insD5Dzkd-37ypDtuQEszHp-SmbdC_YQQC5MTYfAz_FKZynK9DemPVGGoZGYbs=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.coding.quiz_app"
+    },
+    {
+        "id": "com.code.online_games",
+        "name": "عالم الألعاب",
+        "description": "العب مئات الألعاب أونلاين متعة لا حدود لها دون تحميل",
+        "iconUrl": "https://play-lh.googleusercontent.com/8tkpmyl56aBCZHu76sQOo5NkLZ3ttG4PCfdDismTDdFN6FxKaJBumr5pEq4ME-T6ovZDNwi2MGBQSE_62RGwCg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.online_games"
+    },
+    {
+        "id": "com.kg.tmdb",
+        "name": "نوفا ستريم",
+        "description": "نوفا ستريم: شاهد أفضل البرامج التلفزيونية والأفلام والترفيه اللامتناهي",
+        "iconUrl": "https://play-lh.googleusercontent.com/v_qJMr08WbvGsvxBJN-j-FSVtVqNGK3Dv7Qlum8rXSNsxLFwhkfIrrEnVbAnDnr1ptPYKqSJM4f9657l7hU4jg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tmdb"
+    },
+    {
+        "id": "com.kh.full_quran",
+        "name": "أنيسك مصحفك",
+        "description": "استمع إلى القرآن الكريم بصوت قرّاء مميزين في أي وقت",
+        "iconUrl": "https://play-lh.googleusercontent.com/4RRXlA8lYSCZoobI1DUNm_5dejjMtyJ_oPZ8mhUXnvpplKNN8LM_PUTste82gSk2MqDI4nFeM2Xrq2pSzvC5=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
+    },
+    {
+        "id": "com.kg_as.snack_game",
+        "name": "السلم والثعبان مع الأصدقاء",
+        "description": "ارمِ النرد، تسلّق السلم، واهرب من الثعبان! تحدَّ أصدقاءك الآن",
+        "iconUrl": "https://play-lh.googleusercontent.com/iHBSCJTo0n_cM59u8unwnl2hOEq_Xn6xL_rgh-mrPEeOM9iUliaJkGOePunH7AQIqpl8Gik-as4GwSRDw39YSw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg_as.snack_game"
+    },
+    {
+        "id": "com.kg.forty",
+        "name": "الأربعون النووية",
+        "description": "الأربعون النووية كاملة مع شرح ميسر واستماع صوتي",
+        "iconUrl": "https://play-lh.googleusercontent.com/NdyMEwDUvpOB6KT-qCE5pTC2s7Y-i6ESRgQFnLM_5U3kjH0HfysWOvdZOTZe77SpKMrhmWoAwK5lXccVGUh2=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.forty"
+    },
+    {
+        "id": "com.anime.mpc3_anime_free",
+        "name": "أفلام أنمي مدبلجة",
+        "description": "تطبيقك المفضل لمشاهدة الأنمي والرسوم المتحركة مترجمة ومدبلجة",
+        "iconUrl": "https://play-lh.googleusercontent.com/nISZS9IqoMlO0RBg-AgP7Oz7u1q-lFnQ2-Ky4SFIQ-0RDXTt4VGSIIODRfgIL77UL2Hq2lTmYQ-l_8l-Yn2-mQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
+    },
+    {
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
+    },
+    {
+        "id": "com.kh.remove.bg",
+        "name": "استوديو تعديل الصور",
+        "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/Tv_fcXjSftY3wi4T0zBV00IiGppY0-FTD2yLLEmd3WpTNgbZYL3eot77RHEL6m3O_DIuZ-f341nOkg7H0dGOZg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
+    },
+    {
+        "id": "com.kg.games_adventures",
+        "name": "مغامرات الألعاب",
+        "description": "شاهد فيديوهات لمغامرات اللاعبين أثناء لعب الألعاب المختلفة",
+        "iconUrl": "https://play-lh.googleusercontent.com/5QdCtrujqb21qbKpYcUHCecmSV3-UuH0DM8TFyPRAkeW47bfuToT_4CjzmVHcyH8H0jBi0mOafuszHS5uziXJQ=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.games_adventures"
+    },
+    {
+        "id": "com.anime.mpc3_anime",
+        "name": "كرتون مدبلج",
+        "description": "شاهد أفلام الكرتون المدبلجة",
+        "iconUrl": "https://play-lh.googleusercontent.com/kuFOkLUbmgW0_XMmdMSFvHAvxpzOLbn2OrvYATSnCusFyNgQp76UAW5hyWfGA4Oqo2u8IjQujmNkbncMf0avNYw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime"
+    },
+    {
+        "id": "com.kg.islamic_alafasy",
+        "name": "قرآن وأناشيد العفاسي",
+        "description": "استمع إلى تلاوات قرآنية وأناشيد بصوت الشيخ مشاري العفاسي",
+        "iconUrl": "https://play-lh.googleusercontent.com/FzV2AtISbpE86CoORkZ9yRX6dkr5MbEEVbzKCWOjEdxoRYOrvcvj4SALfzfyLTR6N5KQXTy5Rhd8PH1gy1Wh=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.islamic_alafasy"
+    },
+    {
+        "id": "com.az.world_series_movies",
+        "name": "عالم الأفلام والمسلسلات",
+        "description": "شاهد الأفلام والمسلسلات بسهولة من مواقع متعددة داخل التطبيق",
+        "iconUrl": "https://play-lh.googleusercontent.com/HaPvZPQeN50GzfcoOR8g58vZX_wGZuznURuXxiiyWzoXbn8E3DCmYzX4ZfC-3TuRAtSZLcxoTgHbubDdLJ01Dyo=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.world_series_movies"
+    },
+    {
+        "id": "com.note.sqlite_demo",
+        "name": "ملاحظاتي",
+        "description": "نوته بسيطة",
+        "iconUrl": "https://play-lh.googleusercontent.com/ttxjn46YBadPtoahTyxddYPpP5jfqYHcTjI4N1_sKu8pCgRbk7FWMyzL21I4HXMx_4yg6DqFKYFofXcU0tfY=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
     },
     {
         "id": "com.az.action_games",
@@ -14,13 +154,6 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.action_games"
     },
     {
-        "id": "com.az.quiz_app_2",
-        "name": "أسئلة على التجويد 2",
-        "description": "اختبر حفظك لأحكام التجويد مع معلمك، واحصل على شهادة تقدير فور نجاحك",
-        "iconUrl": "https://play-lh.googleusercontent.com/RHUQaFzw01Ym6GsXcl5BbzWw3iCZt4SMFRtjdSbWZuuivpqrE7792gpYeyPFvL7Y-IVpDjQ73oRF96HiFbDMLfY=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.quiz_app_2"
-    },
-    {
         "id": "com.az.casual_games",
         "name": "بوابة العاب الكاجوال -Casual",
         "description": "بوابة موحدة لأشهر مواقع الألعاب الكاجوال المجانية أونلاين بتصميم عصري وسريع",
@@ -28,18 +161,25 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.casual_games"
     },
     {
+        "id": "com.az.quiz_app_2",
+        "name": "أسئلة على التجويد 2",
+        "description": "اختبر حفظك لأحكام التجويد مع معلمك، واحصل على شهادة تقدير فور نجاحك",
+        "iconUrl": "https://play-lh.googleusercontent.com/RHUQaFzw01Ym6GsXcl5BbzWw3iCZt4SMFRtjdSbWZuuivpqrE7792gpYeyPFvL7Y-IVpDjQ73oRF96HiFbDMLfY=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.quiz_app_2"
+    },
+    {
+        "id": "com.az.short_drama",
+        "name": "دراما قصيرة - AI",
+        "description": "دراما قصيرة - AI: وصول سريع لمواقع الدراما الاسيوية المفضلة لديك في مكان واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/OT2g8xvgYWjWQlkrsV2t4fHutKoq7wMB1W1gP8AIAT-n9WX7Lza2hekj8BBg8dI_uFKcnXh_cXZXyoAoqNT7bPU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.short_drama"
+    },
+    {
         "id": "com.az.games_free",
         "name": "بوابة الألعاب - Games Portal",
         "description": "مئات الألعاب المصنّفة في مكان واحد",
         "iconUrl": "https://play-lh.googleusercontent.com/ih-P5n5iiPmwizpAjpeBYFbQQU-oRBwHB9rjTAV7RcnWc7Rf0y6lybiKLFrExLWHxV3S4GGY5Uc6YiFjZnW4UQ=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.games_free"
-    },
-    {
-        "id": "com.note.sqlite_demo",
-        "name": "ملاحظاتي",
-        "description": "نوته بسيطة",
-        "iconUrl": "https://play-lh.googleusercontent.com/ttxjn46YBadPtoahTyxddYPpP5jfqYHcTjI4N1_sKu8pCgRbk7FWMyzL21I4HXMx_4yg6DqFKYFofXcU0tfY=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
     },
     {
         "id": "com.az.puzzle_games",
