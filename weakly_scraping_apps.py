@@ -1,5 +1,7 @@
 import json
-from google_play_scraper import developer
+# ❌ الخطأ كان هنا: from google_play_scraper import developer
+# ✅ التعديل الصحيح:
+from google_play_scraper import developer_apps
 
 dev_ids = ["Code Matrix Dev", "K.G. Apps"]
 all_apps_data = []
@@ -7,8 +9,8 @@ all_apps_data = []
 for dev_id in dev_ids:
     print(f"🔄 جاري جلب تطبيقات المطور: {dev_id}...")
     try:
-        # جلب جميع تطبيقات المطور باللغة العربية
-        results = developer(dev_id, lang="ar", country="eg")
+        # استخدام developer_apps بدلاً من developer
+        results = developer_apps(dev_id, lang="ar", country="eg")
         
         for app in results:
             all_apps_data.append({
