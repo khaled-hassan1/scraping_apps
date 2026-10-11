@@ -7,18 +7,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.youtube_videos"
     },
     {
-        "id": "com.quran_2.quran_sound_2",
-        "name": "جزء عم للمنشاوي بترديد الأطفال",
-        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
-        "iconUrl": "https://play-lh.googleusercontent.com/6Gb-pd0WDIRAHLg73oQzDSPCo43H4s66j8sgTIMExUzvA6DNMsI_85t0-SCXxClpT5isIiaGYMpN4kJu3dD2Lg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
-    },
-    {
         "id": "com.code.world_movies_series",
         "name": "عالم الأفلام والمسلسلات",
         "description": "بوابتك الشاملة لكل ما هو جديد في عالم السينما والدراما",
         "iconUrl": "https://play-lh.googleusercontent.com/9EOFTAhcvn459L1qiHSfqGicNXQNRv9DFhe9sqmWoQ068jXI7nyDOIvmAoTaSIyYnIMFCIrkmwpCW8g2cQqbjHc=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.code.world_movies_series"
+    },
+    {
+        "id": "com.quran_2.quran_sound_2",
+        "name": "جزء عم للمنشاوي بترديد الأطفال",
+        "description": "تسمع للشيخ المنشاوي وتعرف عدد السور مع حروفها مع عدد الحسنات من الحروف نسبيا",
+        "iconUrl": "https://play-lh.googleusercontent.com/6Gb-pd0WDIRAHLg73oQzDSPCo43H4s66j8sgTIMExUzvA6DNMsI_85t0-SCXxClpT5isIiaGYMpN4kJu3dD2Lg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.quran_2.quran_sound_2"
     },
     {
         "id": "com.kg.qasas_quran",
@@ -28,25 +28,25 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.qasas_quran"
     },
     {
-        "id": "com.kg.tales_and_stories",
-        "name": "حواديت وحكايات",
-        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
-        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
-    },
-    {
-        "id": "com.az.all_sites_anime",
-        "name": "عالم الأنمي – Anime world",
-        "description": "استكشف فيديوهات الأنمي والرسوم المتحركة بسهولة في مكان واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/mcnvOZnLyqzO9hXnQ1nBjD-RJd8_swSxQAKgIbVbr0mqHdxVj5vJwKaZsmiVIiMYeSFeDEUXVUgfOmV9bUBw=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
-    },
-    {
         "id": "com.kg.tmdb",
         "name": "نوفا ستريم",
         "description": "نوفا ستريم: شاهد أفضل البرامج التلفزيونية والأفلام والترفيه اللامتناهي",
         "iconUrl": "https://play-lh.googleusercontent.com/v_qJMr08WbvGsvxBJN-j-FSVtVqNGK3Dv7Qlum8rXSNsxLFwhkfIrrEnVbAnDnr1ptPYKqSJM4f9657l7hU4jg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tmdb"
+    },
+    {
+        "id": "com.transport.samannud_toktok",
+        "name": "توك توك سمنود",
+        "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
+        "iconUrl": "https://play-lh.googleusercontent.com/eNFxcYqVXMI4jQBiYwlg_3un_3S5MObBOYCbd7UxfUQkktr-dJMG-rK1fZIjiN8TZGkt2L-8IFtPQS-0AhkYpS4=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
+    },
+    {
+        "id": "com.kg.tales_and_stories",
+        "name": "حواديت وحكايات",
+        "description": "شاهد فيديوهات حواديت وحكايات بأسلوب بسيط وممتع",
+        "iconUrl": "https://play-lh.googleusercontent.com/J0JSqLRAsQDPig9c_oZEjGk0bPEWkVLZAiS8WBnUGth9HF-zqNsx3ajvAtkDJn3LcsxLVkxmTN3KFKvvRm8ulg=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.tales_and_stories"
     },
     {
         "id": "com.coding.quiz_app",
@@ -70,11 +70,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg_as.snack_game"
     },
     {
-        "id": "com.az.animeverse",
-        "name": "عالم الأنمي | Anime World",
-        "description": "اكتشف الأنمي والكرتون، تابع مشاهداتك، وتصفّح القنوات المباشرة في تطبيق واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/judUY-pMvaKDMQU2lz9-8cVRzzQVngzKlgr6SNKReva8Ddrf2z4cqgJ5ikEIKxE8S-fdtIV5gYVhb66aaVvjB70=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.animeverse"
+        "id": "com.az.all_sites_anime",
+        "name": "عالم الأنمي – Anime world",
+        "description": "استكشف فيديوهات الأنمي والرسوم المتحركة بسهولة في مكان واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/mcnvOZnLyqzO9hXnQ1nBjD-RJd8_swSxQAKgIbVbr0mqHdxVj5vJwKaZsmiVIiMYeSFeDEUXVUgfOmV9bUBw=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.all_sites_anime"
     },
     {
         "id": "com.kh.full_quran",
@@ -84,11 +84,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.full_quran"
     },
     {
-        "id": "com.transport.samannud_toktok",
-        "name": "توك توك سمنود",
-        "description": "تطبيق توك توك سمنود للتنقل الآمن يضمن لك رحلات آمنة وموثوقة داخل مدينة سمنود",
-        "iconUrl": "https://play-lh.googleusercontent.com/eNFxcYqVXMI4jQBiYwlg_3un_3S5MObBOYCbd7UxfUQkktr-dJMG-rK1fZIjiN8TZGkt2L-8IFtPQS-0AhkYpS4=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.transport.samannud_toktok"
+        "id": "com.az.animeverse",
+        "name": "عالم الأنمي | Anime World",
+        "description": "اكتشف الأنمي والكرتون، تابع مشاهداتك، وتصفّح القنوات المباشرة في تطبيق واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/judUY-pMvaKDMQU2lz9-8cVRzzQVngzKlgr6SNKReva8Ddrf2z4cqgJ5ikEIKxE8S-fdtIV5gYVhb66aaVvjB70=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.animeverse"
     },
     {
         "id": "com.kg.islamic_alafasy",
@@ -105,18 +105,18 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.anime.mpc3_anime_free"
     },
     {
-        "id": "com.kg.video.world",
-        "name": "عالم الفيديوهات",
-        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
-        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
-    },
-    {
         "id": "com.kh.remove.bg",
         "name": "استوديو تعديل الصور",
         "description": "تعديل الصور وحذف الخلفية بسهولة مع أدوات احترافية وسريعة",
         "iconUrl": "https://play-lh.googleusercontent.com/Tv_fcXjSftY3wi4T0zBV00IiGppY0-FTD2yLLEmd3WpTNgbZYL3eot77RHEL6m3O_DIuZ-f341nOkg7H0dGOZg=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kh.remove.bg"
+    },
+    {
+        "id": "com.kg.video.world",
+        "name": "عالم الفيديوهات",
+        "description": "شاهد فيديوهات متنوعة من مصادر متاحة عبر الإنترنت بسهولة",
+        "iconUrl": "https://play-lh.googleusercontent.com/BQ76Qb-A4eP4aAaxxfKxmpllQc7MYYNA-_mqMrcKz1QYbk7rRSiNrdXWoYVqKRlf5SPXKjNB9sQAC74jtSRWkkU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.video.world"
     },
     {
         "id": "com.kg.forty",
@@ -154,11 +154,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.kg.himma"
     },
     {
-        "id": "com.az.short_drama",
-        "name": "دراما قصيرة - AI",
-        "description": "دراما قصيرة - AI: وصول سريع لمواقع الدراما الاسيوية المفضلة لديك في مكان واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/OT2g8xvgYWjWQlkrsV2t4fHutKoq7wMB1W1gP8AIAT-n9WX7Lza2hekj8BBg8dI_uFKcnXh_cXZXyoAoqNT7bPU=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.short_drama"
+        "id": "com.khaled.castle_battle",
+        "name": "حرب القلاع | Castle Wars",
+        "description": "دبابات وقلاع ودمار تكتيكي في معارك مدفعية ممتعة",
+        "iconUrl": "https://play-lh.googleusercontent.com/qRsxvjCbTnafOB3YoxA7ooRtXrpvYcU9DsxgiVLXIreZdkgxrAiBqhwMwABuii9k8jaMOJ_ttDZNkuDNLHOTsA4=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.khaled.castle_battle"
     },
     {
         "id": "com.note.sqlite_demo",
@@ -168,6 +168,13 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.note.sqlite_demo"
     },
     {
+        "id": "com.az.puzzle_games",
+        "name": "بوابة ألعاب الألغاز - Puzzle",
+        "description": "بوابة ألعاب الألغاز: أفضل ألعاب التفكير والذكاء من أشهر المواقع في مكان واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/3kHPF8NRxqLV3ZfkR0ju-a71Hlep4dhcoHB74ACYXMPwYX9hqUF_h5MgNh9byU0dhF2EaqIRwyy1530mSi2b-w=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.puzzle_games"
+    },
+    {
         "id": "com.az.games_free",
         "name": "بوابة الألعاب - Games Portal",
         "description": "مئات الألعاب المصنّفة في مكان واحد",
@@ -175,11 +182,11 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.games_free"
     },
     {
-        "id": "com.az.puzzle_games",
-        "name": "بوابة ألعاب الألغاز - Puzzle",
-        "description": "بوابة ألعاب الألغاز: أفضل ألعاب التفكير والذكاء من أشهر المواقع في مكان واحد",
-        "iconUrl": "https://play-lh.googleusercontent.com/3kHPF8NRxqLV3ZfkR0ju-a71Hlep4dhcoHB74ACYXMPwYX9hqUF_h5MgNh9byU0dhF2EaqIRwyy1530mSi2b-w=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.puzzle_games"
+        "id": "com.az.short_drama",
+        "name": "دراما قصيرة - AI",
+        "description": "دراما قصيرة - AI: وصول سريع لمواقع الدراما الاسيوية المفضلة لديك في مكان واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/OT2g8xvgYWjWQlkrsV2t4fHutKoq7wMB1W1gP8AIAT-n9WX7Lza2hekj8BBg8dI_uFKcnXh_cXZXyoAoqNT7bPU=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.short_drama"
     },
     {
         "id": "com.az.action_games",
@@ -189,17 +196,24 @@
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.action_games"
     },
     {
-        "id": "com.az.racing_games",
-        "name": "بوابة ألعاب السيارات - Cars",
-        "description": "بوابة ألعاب السيارات: سباقات وقيادة وسيارات مجانية أونلاين بدون تحميل",
-        "iconUrl": "https://play-lh.googleusercontent.com/rO22aid1595fwAO31qnyPccoS8f9M9iyZ2BHwG5eBMsnA5aJK_3zOz1fFlf-ojKvr7AADtbptSujUiIrAMxpmeM=s256",
-        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.racing_games"
-    },
-    {
         "id": "com.az.casual_games",
         "name": "بوابة العاب الكاجوال -Casual",
         "description": "بوابة موحدة لأشهر مواقع الألعاب الكاجوال المجانية أونلاين بتصميم عصري وسريع",
         "iconUrl": "https://play-lh.googleusercontent.com/L5o8moU3sM_Y54gm6lF2BnpuuFTF9uf3_Gz0wccPe2_CPO3qG48FZEOCX2xQEcNmEK5STxs2wycHoEx1zybc_d0=s256",
         "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.casual_games"
+    },
+    {
+        "id": "com.khaled.arcade_hub",
+        "name": "أركيد هب: ٦ ألعاب كلاسيكية",
+        "description": "رفرفة والثعبان وكسّار الطوب والعدّاء وبرج المكعبات وصائد النيازك في تطبيق واحد",
+        "iconUrl": "https://play-lh.googleusercontent.com/GnoPzHY2sDj6ip2bQpkeajeoLZ8fgZsVcJP02-R6lMlIYxJ3rmOmM8kIICAFFOzLgPlT33NqXRCkwfY9HoLARwM=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.khaled.arcade_hub"
+    },
+    {
+        "id": "com.az.racing_games",
+        "name": "بوابة ألعاب السيارات - Cars",
+        "description": "بوابة ألعاب السيارات: سباقات وقيادة وسيارات مجانية أونلاين بدون تحميل",
+        "iconUrl": "https://play-lh.googleusercontent.com/rO22aid1595fwAO31qnyPccoS8f9M9iyZ2BHwG5eBMsnA5aJK_3zOz1fFlf-ojKvr7AADtbptSujUiIrAMxpmeM=s256",
+        "playStoreUrl": "https://play.google.com/store/apps/details?id=com.az.racing_games"
     }
 ]
